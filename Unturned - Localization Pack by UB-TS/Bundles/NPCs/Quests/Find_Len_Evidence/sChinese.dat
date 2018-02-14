@@ -1,0 +1,8 @@
+Name 冷箱
+Description <color=epic>长官Brian</color>建议应该从Darren, Harry在桥上的宿舍开始检查。Harry的东西有必要检查一下呀，Natalie可能见到了一些东西呀，还有Roman可能听到了什么……总之他有很多建议。
+
+Condition_0 搜索<color=rare>中尉Harry的</color>宿舍 {0}/1
+Condition_1 盘问<color=uncommon>少尉Darren</color> {0}/1
+Condition_2 和Natalie谈话 {0}/1
+Condition_3 和主厨Roman谈话 {0}/1
+Condition_4 和<color=epic>上校Len</color>谈话 {0}/1

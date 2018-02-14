@@ -1,0 +1,143 @@
+Space 空间不够
+Item 捡起 {0} [{1}]
+Vehicle_Enter 进入 {0} [{1}]
+Vehicle_Exit 退出 [{0}]
+Vehicle_Swap 切换座位 [F1-F{0}]
+Reload 重新上弹 [{0}]
+Safety 保险 [{0}]
+Light 开/关灯 [{0}]
+Laser 打开/关闭镭射 [{0}]
+Rangefinder 打开/关闭测距仪 [{0}]
+Enemy {0}
+Door_Open 开门 [{0}]
+Door_Close 关门 [{0}]
+Locked 已上锁
+Blocked 被封锁
+Pillar 找不到支柱
+Post 找不到筒桩
+Roof 找不到地板
+Wall 找不到墙
+Corner 缺角
+Ground 地势不平
+Doorway 门不能在这打开
+Garage 找不到车库
+Window 找不到窗户
+Bed_On 占领该床 [{0}]
+Bed_Off 弃置该床 [{0}]
+Bed_Claimed 已被占用
+Bounds 出界
+Experience +{0} 点技能点
+Storage 储存 [{0}]
+Farm 收获 [{0}]
+Grow 生长中
+Soil 该处不可种植
+Fire_On 点燃[{0}]
+Fire_Off 熄灭[{0}]
+Forage 采摘 [{0}]
+Generator_On 启动 [{0}]
+Generator_Off 关闭 [{0}]
+Spot_On 开 [{0}]
+Spot_Off 关 [{0}]
+Empty 已空
+Full 已满
+Moon_On 满月出现！
+Moon_Off 满月落下了！
+Safezone_On 已进入安全区域！
+Safezone_Off 已离开安全区域！
+Deadzone_On 已进入高危地带！
+Deadzone_Off 已离开高危地带！
+Purchase {0} - {1} [{2}]
+Wave_On 部落回归，更加强大了！
+Wave_Off 部落撤退...暂时的。
+Power 没有电源
+Use Use [{0}]
+Salvage 拆除 [按住 {0}]
+Tutorial_Move 嗨！你还活着吧？到处晃一晃[{0}, {1}, {2}, {3}]，让血液流通一下！
+Tutorial_Look 太好了！你还活着。你能看一下 [Drag Mouse] 我在角落里的那个摄像头吗？
+Tutorial_Jump 你脸色看起来还不错！跳过 [{0}] 这个障碍。 当你被追的时候这可以让你保住小命。
+Tutorial_Perspective 你状态还挺可以嘛，你现在可能想看看自己长啥样吧？换个角度 [{0}] 试试看。
+Tutorial_Run 等等，不要老是跳，这很耗体力，要逃的话最好还是跑步 [{0}] 最好！
+Tutorial_Inventory 这里有些给你准备的衣服！按 [{0}] 穿上吧！但这会消耗你的储存空间。
+Tutorial_Survival 民以食为天！这些东西你可以随意放入库存 [{0}] 中，如果你储存空间不够用了，你也可以丢掉。
+Tutorial_Gun 终于到了最刺激的环节了！ 瞄准 [{0}] 僵尸，然后开枪 [{1}] 吧。
+Tutorial_Ladder 干得好！不过下次你应该选择从梯子上往后走爬下来而不是直接跳下来...
+Tutorial_Craft 查看 [{0}] 你的枪支配件，取出弹夹，用这些子弹把弹夹重新填 [{1}] 满，再装回去。
+Tutorial_Skills 用杀僵尸获得的技能点去强化技能 [{0}] 吧！
+Tutorial_Swim 游过那个洞之后上浮 [{0}] 就可以到另一边了。
+Tutorial_Medical 如果你觉得不舒服的话就试试用一下这些东西吧。PS：你受的伤我不背锅。
+Tutorial_Vehicle 用油罐里的汽油把汽油罐填满，之后再把汽油加到车子里，这样车子就能开 [{0}] 了。
+Tutorial_Crouch 蹲下 [{0}] 能让你通过一些矮小的地方，同时也不易被僵尸发觉。
+Tutorial_Prone 趴下 [{0}] 能更加隐蔽！不过估计你也爬不快。
+Tutorial_Educated 你已经通过了基本训练了！按暂停 [{0}] 离开教程，或者继续一些高级训练。
+Tutorial_Harvest 收集浆果 [{0}] ，伐木或者打猎以求在野外继续活下去！
+Tutorial_Fish 钓鱼需要耐心和深水，当你看到那个浮球沉下去的时候要马上拉回来。
+Tutorial_Build 建造一个基地是求生的关键，你能从小陷阱建到超大的墙壁。甚至能造出一台车！
+Tutorial_Horn 按喇叭 [{0}] 赚取回头率！
+Tutorial_Lights 打开你的前灯 [{0}] 能在黑暗中看得更清楚。
+Tutorial_Sirens 用你的警笛 [{0}] 警告劫匪们不要有非分之想！
+Tutorial_Farm 农耕能提供一个可持续的食物来源。
+Tutorial_Power 发电机可以发电（废话），给交通灯之类的电器供电。
+Tutorial_Fire 营火能驱寒取暖，也能让你煮点吃的。
+Claim 已占领区域
+Underwater 太湿了
+Nav 离城镇太远了
+Spawn 离出生点太近了
+Mobile 无服务
+Oil 缺少燃油
+Volume_Water 水量： {0}
+Volume_Fuel 油量：
+Busy 繁忙
+Trapdoor 没有舱门
+Fuel 燃料量： {0}%
+Clean 洁净
+Salty 咸水
+Dirty 污水
+Talk 谈话 [{0}]
+Reputation {0} 声誉
+Safezone 离安全区太近了
+Bayonet 刺刀 [{0}]
+
+Chat_Global [全服] {0}: {1}
+Chat_Local [区域] {0}: {1}
+Chat_Group [组] {0}: {1}
+Chat_Welcome [欢迎语] {0}: {1}
+Chat_Say [警告] {0}: {1}
+
+Vote_Kick {0} [{1}] 正在提议踢出 {2} [{3}] 
+Votes_Needed 提议需要 {0} 票以通过
+Vote_Yes 赞成 [{0}] 投票数： {1}
+Vote_No 反对 [{0}] 投票数： {1}
+Vote_Off 该服务器关闭了投票。
+Vote_Delay 你需要等待一段时间以提议另一项投票。
+Vote_Players 玩家数不足以提议投票
+Vote_Pass 提议通过！
+Vote_Fail 提议被驳回！
+
+List_Joint_0 , 
+List_Joint_1  和 
+
+Arena_Lobby 等待玩家...
+Arena_Warm_Up 准备...
+Arena_Play 开始战斗！
+Arena_Died {0} 已死亡！
+Arena_Abandoned {0} 已放弃！
+Arena_Win {0} 胜利！
+Arena_Lose GAME OVER！
+Arena_Intermission 中场休息...
+
+Mode_Global [全服]
+Mode_Local [区域]
+Mode_Group [组]
+
+Surrender 投降
+Point 指向
+Wave 招手
+Salute 敬礼
+Rest 休息
+Facepalm 捂脸
+
+Round 局数： {0}
+Score 分数： {0}
+
+Stat_Tracker_Total_Kills 总杀敌数 [{0}]
+Stat_Tracker_Player_Kills 玩家杀敌数 [{0}]

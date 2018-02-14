@@ -1,0 +1,18 @@
+Message_0_Page_0 啊，你好！我听说你是个新来的人。我是<name_npc>，负责这艘船只的队长，并帮助我们遇到的任何幸存者。你是我们第一次见面的人之一，你叫什么名字？
+Message_1_Page_0 据说你已经证明自己是我们要找的<color=uncommon>少尉</color>。你想当的话我就把这个位置给你！
+Message_2_Page_0 你是一个模范<color=uncommon>少尉</color>，这是你升职的时候了！如果你准备好了，我准备让你做一个 <color=rare>中尉</color>！
+Message_3_Page_0 我替你感到骄傲，<name_char>…… <pause>你立了大功！我准备让你成为<color=epic>少校</color>去领导一个队伍。意下如何？
+Message_4_Page_0 有事情要报告？
+
+Response_0 我的名字是<name_char>
+Response_1 随时准备着
+Response_2 谢谢你，我不会让你失望的
+Response_3 我很荣幸，我会站在你身边，<color=legendary>队长</color>。
+Response_4 我需要一些时间来考虑
+Response_5 我可以加入联盟吗？
+Response_6 那是什么排名？
+Response_7 我能要一件备用制服吗？
+Response_8 <color=epic>少校Len</color>是个叛徒！
+Response_9 <color=uncommon>少尉Darren</color>才是真正的叛徒！
+Response_10 我拿到一张写给你的纸条
+Response_11 没有任何报告

@@ -1,0 +1,14 @@
+Intent_Delete 你确定要删除 “{0}”？
+Intent_Salvage 你确定要分解  “ {0} ”？
+Intent_Tag_Tool 你确定要把“ {0} ”应用到“ {1} ”？
+Warning 该操作不可撤销！
+Confirm 输入 “{0}” 确认操作：
+Delete 删除
+Salvage 分解
+
+Yes 确定
+Yes_Delete_Tooltip 永久删除
+Yes_Salvage_Tooltip 永久破坏
+Yes_Tag_Tool_Tooltip 永久应用
+No 取消
+No_Tooltip 保留物品

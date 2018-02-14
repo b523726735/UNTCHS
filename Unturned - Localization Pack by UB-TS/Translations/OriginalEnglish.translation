@@ -1,0 +1,781 @@
+"Metadata"
+{
+	"Language" "english"
+	"Namespace" "SDG"
+}
+"Translation"
+{
+	"Asset"
+	{
+		"AssetReference"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "Asset GUID"
+					"Version" "1"
+				}
+			}
+		}
+		"ContentReference"
+		{
+			"Name"
+			{
+				"Name"
+				{
+					"Text" "Content Name"
+					"Version" "1"
+				}
+			}
+			"Path"
+			{
+				"Name"
+				{
+					"Text" "Content Path"
+					"Version" "1"
+				}
+			}
+		}
+		"Asset"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "GUID"
+					"Version" "1"
+				}
+				"Tooltip"
+				{
+					"Text" "128-bit unique ID"
+					"Version" "1"
+				}
+			}
+		}
+		"Item"
+		{
+			"Gun"
+			{
+				"Ammo_Min"
+				{
+					"Name"
+					{
+						"Text" "Minimum Ammo"
+						"Version" "1"
+					}
+				}
+				"Ammo_Max"
+				{
+					"Name"
+					{
+						"Text" "Maximum Ammo"
+						"Version" "1"
+					}
+				}
+			}
+		}
+		"Landscape"
+		{
+			"Material"
+			{
+				"Texture"
+				{
+					"Name"
+					{
+						"Text" "Texture"
+						"Version" "1"
+					}
+				}
+				"Mask"
+				{
+					"Name"
+					{
+						"Text" "Mask"
+						"Version" "1"
+					}
+				}
+				"Physics_Material"
+				{
+					"Name"
+					{
+						"Text" "Physics Material"
+						"Version" "1"
+					}
+				}
+			}
+			"Material_Set"
+			{
+				"Materials"
+				{
+					"Name"
+					{
+						"Text" "Materials"
+						"Version" "1"
+					}
+				}
+			}
+		}
+	}
+	"Devkit"
+	{
+		"Landscape_Tool"
+		{
+			"Heightmap_Brush_Radius_Var"
+			{
+				"Text" "Set Heightmap_Brush_Radius to: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Falloff_Var"
+			{
+				"Text" "Set Heightmap_Brush_Falloff to: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Strength_Var"
+			{
+				"Text" "Set Heightmap_Brush_Strength to: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Flatten_Target_Var"
+			{
+				"Text" "Set Heightmap_Flatten_Target to: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Radius_Var"
+			{
+				"Text" "Set Splatmap_Brush_Radius to: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Falloff_Var"
+			{
+				"Text" "Set Splatmap_Brush_Falloff to: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Strength_Var"
+			{
+				"Text" "Set Splatmap_Brush_Strength to: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Use_Weight_Target_Var"
+			{
+				"Text" "Set Splatmap_Use_Weight_Target to: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Weight_Target_Var"
+			{
+				"Text" "Set Splatmap_Weight_Target to: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Layer_Target_Var"
+			{
+				"Text" "Set Splatmap_Layer_Target to: {0}"
+				"Version" "1"
+			}
+			"Heightmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "Radius"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "Falloff"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "Strength"
+						"Version" "1"
+					}
+				}
+				"Flatten_Target"
+				{
+					"Text" "Flatten Target"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "Max Preview Samples"
+					"Version" "1"
+				}
+			}
+			"Splatmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "Radius"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "Falloff"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "Strength"
+						"Version" "1"
+					}
+				}
+				"Use_Weight_Target"
+				{
+					"Text" "Use Weight Target"
+					"Version" "1"
+				}
+				"Weight_Target"
+				{
+					"Text" "Weight Target"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "Max Preview Samples"
+					"Version" "1"
+				}
+			}
+		}
+		"Toolbar"
+		{
+			"File"
+			{
+				"Exit"
+				{
+					"Text" "Exit"
+					"Version" "1"
+				}
+			}
+			"Edit"
+			{
+				"Undo"
+				{
+					"Text" "Undo"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "Redo"
+					"Version" "1"
+				}
+			}
+		}
+		"Transactions"
+		{
+			"Heightmap"
+			{
+				"Text" "Heightmap"
+				"Version" "1"
+			}
+			"Splatmap"
+			{
+				"Text" "Splatmap"
+				"Version" "1"
+			}
+			"Generic"
+			{
+				"Text" "Change"
+				"Version" "1"
+			}
+			"Field_Delta"
+			{
+				"Text" "Change \"{0}\" field \"{1}\" from \"{2}\" to \"{3}\""
+				"Version" "1"
+			}
+			"Property_Delta"
+			{
+				"Text" "Change \"{0}\" property \"{1}\" from \"{2}\" to \"{3}\""
+				"Version" "1"
+			}
+			"Spawn"
+			{
+				"Text" "Spawn \"{0}\""
+				"Version" "1"
+			}
+			"Delete_Selection"
+			{
+				"Text" "Delete Selection"
+				"Version" "1"
+			}
+			"Paste"
+			{
+				"Text" "Paste"
+				"Version" "1"
+			}
+			"Transform"
+			{
+				"Text" "Transformation"
+				"Version" "1"
+			}
+			"Translation"
+			{
+				"Text" "Translation"
+				"Version" "1"
+			}
+		}
+		"Window"
+		{
+			"Asset_Browser"
+			{
+				"Title"
+				{
+					"Text" "Asset Browser"
+					"Version" "1"
+				}
+			}
+			"Content_Browser"
+			{
+				"Title"
+				{
+					"Text" "Content Browser"
+					"Version" "1"
+				}
+			}
+			"Foliage_Tool"
+			{
+				"Title"
+				{
+					"Text" "Foliage Tool"
+					"Version" "1"
+				}
+			}
+			"Hierarchy"
+			{
+				"Title"
+				{
+					"Text" "Hierarchy"
+					"Version" "1"
+				}
+			}
+			"Inspector"
+			{
+				"Title"
+				{
+					"Text" "Inspector"
+					"Version" "1"
+				}
+				"Key"
+				{
+					"Text" "Key"
+					"Version" "1"
+				}
+				"Value"
+				{
+					"Text" "Value"
+					"Version" "1"
+				}
+			}
+			"Layout"
+			{
+				"Title"
+				{
+					"Text" "Layout"
+					"Version" "1"
+				}
+				"Load"
+				{
+					"Text" "Load"
+					"Version" "1"
+				}
+				"Save"
+				{
+					"Text" "Save"
+					"Version" "1"
+				}
+			}
+			"Type_Browser"
+			{
+				"Title"
+				{
+					"Text" "Type Browser"
+					"Version" "1"
+				}
+			}
+			"Save"
+			{
+				"Title"
+				{
+					"Text" "Save"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "Cancel"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "Save"
+					"Version" "1"
+				}
+			}
+			"Selection_Tool"
+			{
+				"Title"
+				{
+					"Text" "Selection Tool"
+					"Version" "1"
+				}
+			}
+			"Landscape_Tool"
+			{
+				"Title"
+				{
+					"Text" "Landscape Tool"
+					"Version" "1"
+				}
+				"Heightmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "Heightmap [1]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "Splatmap [2]"
+						"Version" "1"
+					}
+				}
+				"Tile_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "Tile [3]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Adjust_Button"
+				{
+					"Label"
+					{
+						"Text" "Adjust [Q]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Button"
+				{
+					"Label"
+					{
+						"Text" "Flatten [W]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Button"
+				{
+					"Label"
+					{
+						"Text" "Smooth [E]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Ramp_Button"
+				{
+					"Label"
+					{
+						"Text" "Ramp [R]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "Radius [B]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "Falloff [F]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "Strength [V]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Target"
+				{
+					"Label"
+					{
+						"Text" "Flatten Target [Alt]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Method"
+				{
+					"Label"
+					{
+						"Text" "Smooth Method"
+						"Version" "1"
+					}
+					"Brush_Average"
+					{
+						"Text" "Brush Average"
+						"Version" "1"
+					}
+					"Pixel_Average"
+					{
+						"Text" "Pixel Average"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "Radius [B]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "Falloff [F]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "Strength [V]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Use_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "Use Weight Target [Ctrl]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "Weight Target [G]"
+						"Version" "1"
+					}
+				}
+				"Tile_Material_Set"
+				{
+					"Label"
+					{
+						"Text" "Material Set"
+						"Version" "1"
+					}
+				}
+			}
+			"Transaction"
+			{
+				"Title"
+				{
+					"Text" "Transactions"
+					"Version" "1"
+				}
+				"Undo"
+				{
+					"Text" "Undo:"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "Redo:"
+					"Version" "1"
+				}
+			}
+			"Translation"
+			{
+				"Title"
+				{
+					"Text" "Translations"
+					"Version" "4"
+				}
+				"Edit_Origin"
+				{
+					"Text" "Edit Origin \"{0}\""
+					"Version" "3"
+				}
+				"Edit_Translation"
+				{
+					"Text" "Edit Translation \"{0}\""
+					"Version" "2"
+				}
+				"Origin_Misses"
+				{
+					"Text" "Origin \"{0}\" Misses"
+					"Version" "3"
+				}
+				"Origin_Translation_Delta"
+				{
+					"Text" "Origin \"{0}\" -> Translation \"{1}\" Delta "
+					"Version" "2"
+				}
+				"Tree_Back"
+				{
+					"Text" "Back"
+					"Version" "1"
+				}
+				"Tree_Add_Leaf"
+				{
+					"Text" "+Leaf"
+					"Version" "1"
+				}
+				"Tree_Add_Branch"
+				{
+					"Text" "+Branch"
+					"Version" "1"
+				}
+				"Clear_Misses"
+				{
+					"Text" "Clear Misses"
+					"Version" "1"
+				}
+				"Refresh_Misses"
+				{
+					"Text" "Refresh Misses"
+					"Version" "1"
+				}
+				"Refresh_Delta"
+				{
+					"Text" "Refresh Delta"
+					"Version" "1"
+				}
+			}
+			"Load"
+			{
+				"Title"
+				{
+					"Text" "Load"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "Cancel"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "Load"
+					"Version" "1"
+				}
+			}
+		}
+		"Selection_Tool"
+		{
+			"Snap_Position"
+			{
+				"Text" "Snap Position"
+				"Version" "1"
+			}
+			"Snap_Rotation"
+			{
+				"Text" "Snap Rotation"
+				"Version" "1"
+			}
+			"Snap_Scale"
+			{
+				"Text" "Snap Scale"
+				"Version" "1"
+			}
+			"Surface_Offset"
+			{
+				"Text" "Surface Offset"
+				"Version" "1"
+			}
+			"Surface_Align"
+			{
+				"Text" "Surface Align"
+				"Version" "1"
+			}
+			"Local_Space"
+			{
+				"Text" "Local Space"
+				"Version" "1"
+			}
+		}
+		"Foliage_Tool"
+		{
+			"Brush"
+			{
+				"Radius"
+				{
+					"Text" "Radius"
+					"Version" "1"
+				}
+				"Falloff"
+				{
+					"Text" "Falloff"
+					"Version" "1"
+				}
+				"Strength"
+				{
+					"Text" "Strength"
+					"Version" "1"
+				}
+			}
+			"Density_Target"
+			{
+				"Text" "Density Target"
+				"Version" "1"
+			}
+			"Max_Preview_Samples"
+			{
+				"Text" "Max Preview Samples"
+				"Version" "1"
+			}
+			"Surface_Mask"
+			{
+				"Text" "Surface Mask"
+				"Version" "1"
+			}
+		}
+		"Volumes"
+		{
+			"Kill"
+			{
+				"Players"
+				{
+					"Text" "Kill Players"
+					"Version" "1"
+				}
+				"Zombies"
+				{
+					"Text" "Kill Zombies"
+					"Version" "1"
+				}
+				"Animals"
+				{
+					"Text" "Kill Animals"
+					"Version" "1"
+				}
+				"Vehicles"
+				{
+					"Text" "Kill Vehicles"
+					"Version" "1"
+				}
+			}
+			"Death_Cause"
+			{
+				"Text" "Death Cause"
+				"Version" "1"
+			}
+		}
+	}
+}

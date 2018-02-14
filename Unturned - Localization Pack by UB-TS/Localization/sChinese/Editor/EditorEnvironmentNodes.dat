@@ -1,0 +1,26 @@
+Name_Label 地点位置
+Radius_Label 半径
+Width_Label 宽度
+Height_Label 高度
+Length_Label 长度
+Item_ID_Label ID
+Cost_Label COST
+Spawn_ID_Label 生成ID
+Effect_ID_Label 特效ID
+No_Water_Label 无水源
+No_Lighting_Label 无光源
+No_Weapons_Label 不可使用武器
+No_Buildables_Label 不可进行建筑工事
+
+Shape_Tooltip 形态
+Sphere 球状
+Box 盒状
+
+Type_Tooltip 种类
+Location 地区
+Safezone 安全区
+Purchase 购买区
+Arena 竞技场
+Deadzone 高危地带
+Airdrop 空投区
+Effect 特效

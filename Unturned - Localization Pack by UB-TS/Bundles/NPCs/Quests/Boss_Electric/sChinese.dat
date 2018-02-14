@@ -1,0 +1,4 @@
+Name <color=mythical>电火花</color>
+Description 当飞越南部Jhavesk的时候，<color=uncommon>少尉Cliff</color>小队的直升机被巨大雷电尸王电击了几下。如果你够勇的话，麻烦在它可以导致更多的麻烦之前杀了它。<color=uncommon>少尉Cliff</color>肯定会感谢你的。
+
+Condition_0 击败 {0}/{1} <color=mythical>雷电尸王</color>

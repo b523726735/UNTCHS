@@ -1,0 +1,34 @@
+Type_Tooltip 目标类别
+Type_Item 道具
+Type_Vehicle 载具
+Type_Animal 动物
+
+View_Button 查看
+View_Button_Tooltip 搜索生成ID
+Raw_Button 输出
+Raw_Button_Tooltip 输出到剪贴板
+New_Button 新表
+New_Button_Tooltip 创建新的生成机制
+Write_Button 写入
+Write_Button_Tooltip 把更改写入Asset文件
+Add_Root_Spawn_Button 导入生成表
+Add_Root_Spawn_Button_Tooltip 新生成表根
+Remove_Root_Button 移除
+Remove_Root_Button_Tooltip 移除生成表根
+Add_Table_Asset_Button 导入机制
+Add_Table_Asset_Button_Tooltip 新子生成表
+Add_Table_Spawn_Button 导入生成表
+Add_Table_Spawn_Button_Tooltip 新子生成表
+Remove_Table_Button 移除
+Remove_Table_Button_Tooltip 移除子生成表
+Apply_Weights_Button 应用重量
+Apply_Weights_Button_Tooltip 计算几率百分比
+
+Roots_Box {0} - 生成表根
+Roots_Box_Tooltip 父生成表
+
+Tables_Box {0} - 生成表
+Tables_Box_Tooltip 子生成表
+
+Weight_Tooltip 重量
+Chance_Tooltip 几率

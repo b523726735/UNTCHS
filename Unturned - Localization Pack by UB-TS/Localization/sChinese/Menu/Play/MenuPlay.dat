@@ -1,0 +1,12 @@
+ConnectButtonText 连接
+ConnectButtonTooltip 连接指定主机
+ServersButtonText 服务器
+ServersButtonTooltip 搜索服务器
+SingleplayerButtonText 单人游戏
+SingleplayerButtonTooltip 独自进行游戏
+MatchmakingButtonText 自动寻找游戏
+MatchmakingButtonTooltip 自动匹配最佳服务器
+LobbiesButtonText 大厅
+LobbiesButtonTooltip 大厅
+TutorialButtonText 新手教程
+TutorialButtonTooltip 来学习操作吧

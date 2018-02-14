@@ -1,0 +1,16 @@
+Sight_Hook_Tooltip 瞄准仪
+Tactical_Hook_Tooltip 枪口
+Grip_Hook_Tooltip 握把
+Barrel_Hook_Tooltip 枪管
+Magazine_Hook_Tooltip 弹夹
+
+Ammo {0}/{1}
+Firemode {0} [{1}]
+Attach {0} [{1}]
+
+None 无
+
+Safety 保险
+Semi 半自动
+Auto 全自动
+Burst 爆炸模式

@@ -1,0 +1,46 @@
+FOV_Slider_Label FoV（广角视觉） [{0}°]
+Volume_Slider_Label 音量 [{0}%]
+Voice_Slider_Label 内置语音增强 [{0}%]
+Debug_Toggle_Label FPS显示
+Music_Toggle_Label 音乐
+Timer_Toggle_Label 竞技场计时警告
+Splashscreen_Toggle_Label 开场动画
+Physics_Toggle_Label 物理效果
+Gore_Toggle_Label 血液效果
+Filter_Toggle_Label 文本聊天过滤器
+Chat_Text_Toggle_Label 允许文本聊天
+Chat_Voice_In_Toggle_Label 允许语音聊天
+Chat_Voice_Out_Toggle_Label 关闭语音聊天
+Hints_Toggle_Label 提示
+Ambience_Toggle_Label 白天/夜晚的光源效果
+Streamer_Toggle_Label 直播模式
+Featured_Workshop_Toggle_Label 推荐创意工坊物品
+Show_Hotbar_Toggle_Label 显示快捷栏
+
+Matchmaking_Show_All_Maps_Toggle_Label 匹配所有地图
+Min_Matchmaking_Players_Field_Label 匹配最少玩家
+Max_Matchmaking_Ping_Field_Label 匹配最大延迟
+
+Metric_On 公制
+Metric_Off 英制
+Metric_Tooltip 测量单位
+
+Talk_On 即时聊天
+Talk_Off 动作聊天
+Talk_Tooltip NPC语音文本/动画
+
+UI_Free 冰晶白
+UI_Pro 金属黑
+UI_Tooltip UI皮肤颜色
+
+Hitmarker_Static 静态击中指示器
+Hitmarker_Dynamic 动态击中指示器
+Hitmarker_Tooltip 击中指示器模式
+
+Crosshair_Box 准星颜色
+Hitmarker_Box 击中指示器颜色
+Critical_Hitmarker_Box 暴击指示器颜色
+Cursor_Box 光标颜色
+Background_Box UI背景颜色
+Foreground_Box UI前端颜色
+Font_Box 字体颜色

@@ -1,0 +1,91 @@
+Server_Button {0} 在 {1}
+Server_Players {0}/{1}
+
+Name_Field_Hint 服务器名称过滤
+Password_Field_Hint 密码
+Password_Field_Replace #
+
+Refresh_Gold_Button 黄金版服务器
+Refresh_Gold_Button_Tooltip 获取黄金版服务器列表
+
+Refresh_Internet_Button 获取互联网的服务器
+Refresh_Internet_Button_Tooltip 刷新
+
+Refresh_LAN_Button 获取局域网的服务器
+Refresh_LAN_Button_Tooltip 刷新
+
+Refresh_History_Button 获取加入过的服务器
+Refresh_History_Button_Tooltip 刷新
+
+Refresh_Favorites_Button 获取收藏夹的服务器
+Refresh_Favorites_Button_Tooltip 刷新
+
+Refresh_Friends_Button 获取好友所在的服务器
+Refresh_Friends_Button_Tooltip 刷新
+
+Any_Password_Button 无论有无密码
+Yes_Password_Button 有密码
+No_Password_Button 无密码
+
+Any_Workshop_Button 无论是否支援创意工坊
+Yes_Workshop_Button 支援创意工坊
+No_Workshop_Button 不支援创意工坊
+
+Any_Plugins_Button 无论有无插件
+Yes_Plugins_Button 高科技时代（Rocket ON）
+No_Plugins_Button 原始社会（Vanilla ON）
+
+Attendance_Toggle 游戏中
+Security_Toggle 保护
+PvP_Toggle PvP
+
+Any_Attendance_Button 无论有无人
+Empty_Button 无人服
+Space_Button 有座位
+
+VAC_Any_Button 无论有无保护
+VAC_Secure_Button 已保护
+VAC_Insecure_Button 无保护
+
+BattlEye_Any_Button 任意BattlEye
+BattlEye_Secure_Button 需要开启BattlEye
+BattlEye_Insecure_Button BattlEye已禁用
+
+Any_Combat_Button 任意
+PvP_Button PvP
+PvE_Button PvE
+
+Any_Cheats_Button 无论有无作弊模式
+Yes_Cheats_Button 作弊模式开启
+No_Cheats_Button 作弊模式关闭
+
+Any_Mode_Button 全部模式
+Easy_Button 简单
+Normal_Button 普通
+Hard_Button 困难
+Pro_Button 黄金版
+
+Any_Camera_Button 全部人称视觉
+First_Button 仅限第一人称视觉
+Third_Button 仅限第三人称视觉
+Both_Button 第一/三人称视觉
+Vehicle_Button 载具第三人称视觉
+
+Any_Map 任意地图
+
+No_Servers 主服务器上没有找到版本为 {0} 的服务器
+
+Sort_Name 名称
+Sort_Name_Tooltip 按名称筛选。
+
+Sort_Map 地图
+Sort_Map_Tooltip 按地图筛选。
+
+Sort_Players Players
+Sort_Players_Tooltip 按玩家筛选。
+
+Sort_Ping Ping
+Sort_Ping_Tooltip 按Ping筛选。
+
+Favorite_On_Button_Tooltip 添加到收藏
+Favorite_Off_Button_Tooltip 取消收藏

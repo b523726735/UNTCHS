@@ -1,0 +1,88 @@
+Sensitivity_Field_Label 鼠标灵敏度
+Invert_Toggle_Label 反转鼠标
+Invert_Flight_Toggle_Label 飞行控制反转
+Aiming_Label 瞄准
+Crouching_Label 蹲下
+Proning_Label 俯卧
+Sprinting_Label 冲刺
+Leaning_Label 弯腰
+
+Hold 持续按下
+Toggle 按下切换
+
+Mouse_0 鼠标 #1
+Mouse_1 鼠标 #2
+Mouse_2 鼠标 #3
+Mouse_3 鼠标 #4
+Mouse_4 鼠标 #5
+Mouse_5 鼠标 #6
+Tilde 波浪线
+
+Layout_0 移动
+Layout_1 站姿
+Layout_2 使用
+Layout_3 道具
+Layout_4 交流
+Layout_5 交互
+Layout_6 载具
+Layout_7 编辑器
+
+Key_0_Button 左走 [{0}]
+Key_1_Button 右走 [{0}]
+Key_2_Button 前走 [{0}]
+Key_3_Button 后走 [{0}]
+Key_4_Button 跳跃 [{0}]
+Key_5_Button 向左弯腰 [{0}]
+Key_6_Button 向左弯腰 [{0}]
+Key_7_Button 主攻击 [{0}]
+Key_8_Button 副攻击 [{0}]
+Key_9_Button 使用/拾起 [{0}]
+Key_10_Button 蹲下 [{0}]
+Key_11_Button 俯卧 [{0}]
+Key_12_Button 冲刺 [{0}]
+Key_13_Button 重新载弹 [{0}]
+Key_14_Button 改装武器 [{0}]
+Key_15_Button 开火模式 [{0}]
+Key_16_Button 物品栏 [{0}]
+Key_17_Button 库存 [{0}]
+Key_18_Button 制造 [{0}]
+Key_19_Button 技能 [{0}]
+Key_20_Button 地图 [{0}]
+Key_21_Button 玩家 [{0}]
+Key_22_Button 声音 [{0}] 
+Key_23_Button 变更 [{0}]
+Key_24_Button 喇叭 [{0}]
+Key_25_Button 聚焦 [{0}]
+Key_26_Button 工具 #1 [{0}]
+Key_27_Button 工具 #2 [{0}]
+Key_28_Button 工具 #3 [{0}]
+Key_29_Button HUD显示切换 [{0}]
+Key_30_Button 其他 [{0}]
+Key_31_Button 全服聊天 [{0}]
+Key_32_Button 区域聊天 [{0}]
+Key_33_Button 组内聊天 [{0}]
+Key_34_Button 手势 [{0}]
+Key_35_Button 使用夜视仪 [{0}]
+Key_36_Button 使用战术手电筒 [{0}]
+Key_37_Button 切换人称视觉 [{0}]
+Key_38_Button 卸下 [{0}]
+Key_39_Button 站姿 [{0}]
+Key_40_Button 左翻滚 [{0}]
+Key_41_Button 右翻滚 [{0}]
+Key_42_Button 抬头 [{0}]
+Key_43_Button 俯冲 [{0}]
+Key_44_Button 左转 [{0}]
+Key_45_Button 右转 [{0}]
+Key_46_Button 加速 [{0}]
+Key_47_Button 减速 [{0}]
+Key_48_Button 查看武器 [{0}]
+Key_49_Button 旋转物品 [{0}]
+Key_50_Button 工具 #4 [{0}]
+Key_51_Button 攀爬 [{0}]
+Key_52_Button 下落 [{0}]
+Key_53_Button 上锁 [{0}]
+Key_54_Button 查看任务 [{0}]
+Key_55_Button 终端 [{0}]
+Key_56_Button 截图 [{0}]
+Key_57_Button 刷新游戏资源 [{0}]
+Key_58_Button 复制错误信息 [{0}]

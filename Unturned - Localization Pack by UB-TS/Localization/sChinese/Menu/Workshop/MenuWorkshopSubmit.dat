@@ -1,0 +1,122 @@
+Name_Field_Label 标题
+Description_Field_Label 描述
+Path_Field_Label 作品所在目录
+Preview_Field_Label 封面图
+Change_Field_Label 改动说明
+
+Create_Button 上传作品
+Create_Button_Tooltip 上传作品
+
+Legal_Button 上传这个项目之前，你需要同意Steam用户协议！
+Legal_Button_Tooltip 查看协议
+
+Map 地图
+Localization 语言文件
+Object 物件
+Item 道具
+Vehicle 载具
+Skin 皮肤
+
+Map_Type_Survival 生存模式
+Map_Type_Horde 部落战
+Map_Type_Arena 竞技模式
+
+Item_Type_Backpack 背包
+Item_Type_Barrel 弹药
+Item_Type_Barricade 制造生产类
+Item_Type_Fisher 垂钓
+Item_Type_Food 食物
+Item_Type_Fuel 燃料
+Item_Type_Glasses 眼镜
+Item_Type_Grip 把手
+Item_Type_Grower 肥料
+Item_Type_Gun 枪
+Item_Type_Hat 帽子
+Item_Type_Magazine 弹夹
+Item_Type_Mask 面部装饰
+Item_Type_Medical 医疗用品
+Item_Type_Melee 近战武器
+Item_Type_Optic 望远镜
+Item_Type_Shirt 上衣
+Item_Type_Sight 瞄准镜
+Item_Type_Structure 建筑类
+Item_Type_Supply 供给物
+Item_Type_Tactical 战术用物
+Item_Type_Throwable 丢掷物
+Item_Type_Tool 工具
+Item_Type_Vest 马甲
+Item_Type_Water 饮用物
+
+Vehicle_Type_Wheels_2 2轮载具
+Vehicle_Type_Wheels_4 4轮载具
+Vehicle_Type_Plane 飞机
+Vehicle_Type_Helicopter 直升机
+Vehicle_Type_Boat 船只
+
+Skin_Type_Generic_Pattern Generic Pattern
+Skin_Type_Ace Ace
+Skin_Type_Augewehr Augewehr
+Skin_Type_Avenger Avenger
+Skin_Type_Bluntforce Bluntforce
+Skin_Type_Bulldog Bulldog
+Skin_Type_Butterfly_Knife 蝴蝶刀
+Skin_Type_Calling_Card Calling Card
+Skin_Type_Cobra Cobra
+Skin_Type_Colt Colt
+Skin_Type_Compound_Bow 复合弓
+Skin_Type_Crossbow 弩
+Skin_Type_Desert_Falcon Desert Falcon
+Skin_Type_Dragonfang Dragonfang
+Skin_Type_Eaglefire Eaglefire
+Skin_Type_Ekho Ekho
+Skin_Type_Fusilaut Fusilaut
+Skin_Type_Grizzly Grizzly
+Skin_Type_Hawkhound Hawkhound
+Skin_Type_Heartbreaker Heartbreaker
+Skin_Type_Hell_Fury Hell's Fury
+Skin_Type_Honeybadger Honeybadger
+Skin_Type_Katana 武士刀
+Skin_Type_Kryzkarek Kryzkarek
+Skin_Type_Machete 弯刀
+Skin_Type_Maplestrike Maplestrike
+Skin_Type_Masterkey Masterkey
+Skin_Type_Matamorez Matamorez
+Skin_Type_Military_Knife 军刀
+Skin_Type_Nightraider Nightraider
+Skin_Type_Nykorev Nykorev
+Skin_Type_Peacemaker Peacemaker
+Skin_Type_Rocket_Launcher 火箭筒
+Skin_Type_Sabertooth Sabertooth
+Skin_Type_Scalar Scalar
+Skin_Type_Schofield Schofield
+Skin_Type_Shadowstalker Shadowstalker
+Skin_Type_Snayperskya Snayperskya
+Skin_Type_Sportshot Sportshot
+Skin_Type_Timberwolf Timberwolf
+Skin_Type_Teklowvka Teklowvka
+Skin_Type_Viper Viper
+Skin_Type_Vonya Vonya
+Skin_Type_Yuri Yuri
+Skin_Type_Zubeknakov Zubeknakov
+
+Object_Type_Model 模型
+Object_Type_Resource 资源
+Object_Type_Effect 特效
+Object_Type_Animal 动物
+
+Public 公开
+Friends_Only 仅限好友
+Private 隐藏
+
+Community Ready-To-Use
+Review Curated
+
+Overlay 需要启用Steam界面
+
+Alert_Name 请为您的作品命名。
+Alert_Preview 请为您的作品加一张预览图。[PNG或者JPG文件，不加请输入None]
+Alert_Path Please 请加入您的作品的目录。
+Alert_Map 请指定一张有效的地图。
+Alert_Localization 请指定一个有效的语言包。
+Alert_Object 请指定一个有效的物件/道具/载具/皮肤.
+Alert_Curated 你可以把单纯的外观美化（如模型，皮肤等）内容上传到“Curated”类别。

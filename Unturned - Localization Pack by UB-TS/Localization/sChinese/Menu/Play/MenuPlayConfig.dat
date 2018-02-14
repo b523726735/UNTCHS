@@ -1,0 +1,162 @@
+Items 道具
+Vehicles 载具
+Zombies 僵尸
+Animals 动物
+Barricades 障碍物
+Structures 建筑
+Players 玩家
+Objects 物品
+Events 事件
+Gameplay 游戏设置
+
+Spawn_Chance 物品刷新几率 [0-1]
+Respawn_Time 刷新时间
+Decay_Time 消失时间
+Damage_Multiplier 伤害倍数
+Armor_Multiplier 防护倍数
+
+Max_Instances_Tiny 最大实例数（微型）
+Max_Instances_Small 最大实例数（小型）
+Max_Instances_Medium 最大实例数（中型）
+Max_Instances_Large 最大实例数（大型）
+Max_Instances_Insane 最大实例数（巨大）
+
+Despawn_Dropped_Time 物品重刷时长
+Despawn_Natural_Time 物品自然消失时长
+Has_Durability 具有耐久值
+
+Quality_Full_Chance 品质总几率 [0-1]
+Quality_Multiplier 品质加成倍数
+
+Gun_Bullets_Full_Chance 生成枪支子弹总几 [0-1]
+Gun_Bullets_Multiplier 枪支子弹加成倍数
+Magazine_Bullets_Full_Chance 生成弹夹总几率 [0-1]
+Magazine_Bullets_Multiplier 弹夹子弹加成倍数
+Crate_Bullets_Full_Chance 生成弹药箱几率 [0-1]
+Crate_Bullets_Multiplier 弹药箱子弹数加成倍数
+
+Loot_Chance 物资生成几率 [0-1]
+Crawler_Chance 爬式僵尸几率 [0-0.5]
+Sprinter_Chance 冲刺僵尸几率 [0-0.5]
+Flanker_Chance 隐形僵尸几率 [0-0.5]
+Burner_Chance 自燃僵尸几率 [0-0.5]
+Acid_Chance 酸液僵尸几率 [0-0.5]
+Boss_Electric_Chance 雷霆BOSS生成几率 [0-0.5]
+Boss_Wind_Chance 飓风BOSS生成几率  [0-0.5]
+Boss_Fire_Chance 烈火BOSS生成几率 [0-0.5]
+Respawn_Day_Time 白天刷新数量
+Respawn_Night_Time 晚上刷新数量
+Respawn_Beacon_Time 尸潮刷新间隔
+Beacon_Experience_Multiplier 信标经验值加成
+Full_Moon_Experience_Multiplier 满月经验值加成
+Min_Drops 最少掉落
+Max_Drops 最大掉落
+Min_Mega_Drops 最少巨型僵尸掉落
+Max_Mega_Drops 最大巨型僵尸掉落
+Min_Boss_Drops 最少Boss僵尸掉落
+Max_Boss_Drops 最大Boss僵尸掉落
+Slow_Movement 缓慢移动
+Can_Stun 能否被击晕
+
+Has_Battery_Chance 启用电池衰减
+Min_Battery_Charge 最少电池充量
+Max_Battery_Charge 最大电池充量
+Has_Tire_Chance 启用轮胎衰减
+
+Experience_Multiplier XP加成倍数
+Detect_Radius_Multiplier NPC索敌半径倍数
+Ray_Aggressor_Distance 子弹/伤害射线 攻击距离
+
+Health_Regen_Min_Food 生命自动恢复所需饱食量
+Health_Regen_Min_Water 生命自动恢复所需水分量
+Health_Regen_Ticks 生命自动恢复速度
+
+Food_Use_Ticks 饱食量消耗速度
+Food_Damage_Ticks 饥饿掉血速度
+
+Water_Use_Ticks 水分消耗速度
+Water_Damage_Ticks 干渴掉血速度
+
+Virus_Infect 病毒感染阈值
+Virus_Use_Ticks 病毒感染速度
+Virus_Damage_Ticks 生病掉血速度
+
+Leg_Regen_Ticks 骨折恢复速度
+Bleed_Damage_Ticks 出血伤害速度
+Bleed_Regen_Ticks 自然止血速度
+
+Lose_Skills_PvP PvP死亡时重置技能
+Lose_Skills_PvE PvE死亡时重置技能
+Lose_Items_PvP PvP死亡时丢失所有物品
+Lose_Items_PvE PvE死亡时丢失所有物品
+Lose_Clothes_PvP PvP死亡时丢失所有物品
+Lose_Clothes_PvE PvE死亡时丢失衣服
+
+Can_Hurt_Legs 腿伤
+Can_Break_Legs 骨折
+Can_Fix_Legs 骨折自然愈合
+Can_Start_Bleeding 出血
+Can_Stop_Bleeding 自然止血
+
+Rain_Frequency_Min 最低降水概率
+Rain_Frequency_Max 最大降水概率
+Rain_Duration_Min 最小降水时长
+Rain_Duration_Max 最大降水时长
+
+Snow_Frequency_Min 最低降雪概率
+Snow_Frequency_Max 最大降雪概率
+Snow_Duration_Min 最小降雪时长
+Snow_Duration_Max 最大降雪时长
+
+Binary_State_Reset_Multiplier 是非状态重置时间倍数
+Fuel_Reset_Multiplier 汽油再生时间倍数
+Water_Reset_Multiplier 水资源再生时间倍数
+Resource_Reset_Multiplier 资源再生时间倍数
+Rubble_Reset_Multiplier 废墟恢复时间倍数
+
+Airdrop_Frequency_Min 最小空投频率
+Airdrop_Frequency_Max 最大空投频率
+Airdrop_Speed 空投速度
+Airdrop_Force 空投力度
+
+Arena_Min_Players 竞技场最少玩家
+Arena_Compactor_Damage 竞技场外伤害
+
+Arena_Clear_Timer 竞技场清理计时
+Arena_Finale_Timer 竞技场决胜段计时
+Arena_Restart_Timer 竞技场重启计时
+
+Arena_Use_Airdrops 竞技场空投
+Arena_Use_Compactor_Pause 启用缩圈暂停
+
+Arena_Compactor_Delay_Timer 竞技圈延时计时
+Arena_Compactor_Pause_Timer 竞技圈暂停计时
+
+Arena_Compactor_Speed_Tiny 缓速竞技圈
+Arena_Compactor_Speed_Small 慢速竞技圈
+Arena_Compactor_Speed_Medium 中速竞技圈
+Arena_Compactor_Speed_Large 高速竞技圈
+Arena_Compactor_Speed_Insane 超高速竞技圈
+Arena_Compactor_Shrink_Factor 竞技圈收缩速度
+
+Repair_Level_Max 最高修复等级
+Hitmarkers 击中指示器
+Crosshair 准星
+Ballistics 弹道
+Chart 地图启用
+Satellite 卫星图可用
+Compass 指南针可用
+Group_Map 在地图上显示组成员
+Group_HUD 在HUD上显示组成员
+Allow_Static_Groups 允许固定组
+Allow_Dynamic_Groups 允许更改组
+Allow_Shoulder_Camera 允许越肩视角
+Can_Suicide 允许自杀
+
+Timer_Exit 退出惩罚计时
+Timer_Respawn 重生惩罚计时
+Timer_Home 在家重生惩罚计时
+Max_Group_Members 最大组成员数
+
+Default Restore 恢复默认参数
+Default_Tooltip 使用最开始的参数。

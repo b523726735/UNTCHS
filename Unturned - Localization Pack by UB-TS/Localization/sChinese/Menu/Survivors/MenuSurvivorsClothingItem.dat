@@ -1,0 +1,27 @@
+Equip_Text 装备
+Equip_Tooltip 把这件装备配备给角色。
+
+Dequip_Text 卸下
+Dequip_Tooltip 把这件装备从角色身上卸下。
+
+Target_Item_Text 使用
+Target_Item_Tooltip 选择你要应用到的目标物品。
+
+Contents_Text 检查
+Contents_Tooltip 点击这里看看里面到底有什么。
+
+Inspect_Text 检查
+Inspect_Tooltip 点击这里看看这玩意长什么样。
+
+Market_Text 市场
+Market_Tooltip 点击这里浏览社区市场页面。
+
+Delete_Text 删除
+Delete_Tooltip 从库中永久删除该物品。
+
+Scrap_Text 分解
+Scrap_Tooltip 收集基础合成材料。
+
+Overlay 需要启用Steam界面。
+
+Unknown 如果你不是在运行老版本的游戏（请退出并通过STEAM更新游戏）的话就是出现了可怕的错误！

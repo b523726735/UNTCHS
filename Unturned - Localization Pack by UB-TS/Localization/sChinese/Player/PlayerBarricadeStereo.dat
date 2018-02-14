@@ -1,0 +1,6 @@
+Stop_Button 暂停
+Stop_Button_Tooltip 暂停回放
+Close_Button 关闭
+Close_Button_Tooltip 隐藏该窗口
+
+Volume_Slider_Label 音量： {0}%

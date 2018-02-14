@@ -1,0 +1,20 @@
+Name_Label {0}
+Nick_Label [{0}]
+
+Name_Field_Label 公共昵称
+Nick_Field_Label 私人昵称
+
+Skillset_0 平民
+Skillset_1 消防员
+Skillset_2 警官
+Skillset_3 军人
+Skillset_4 农民
+Skillset_5 渔民
+Skillset_6 伐木工
+Skillset_7 匠人
+Skillset_8 厨师
+Skillset_9 窃贼
+Skillset_10 医师
+Skillset_Box_Label 职业技能：
+
+Overlay 需要启用Steam界面

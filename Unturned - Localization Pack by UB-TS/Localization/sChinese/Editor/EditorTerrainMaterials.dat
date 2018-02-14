@@ -1,0 +1,32 @@
+OvergrowthSliderLabelText 覆盖程度
+ChanceSliderLabelText 生长概率
+SteepnessFieldLabelText 不平整度
+HeightValueLabelText 高度
+TransitionSliderLabelText 过渡
+Grassy_0_ToggleLabelText 草皮 #1
+Grassy_1_ToggleLabelText 草皮 #2
+Flowery_0_ToggleLabelText 花丛 #1
+Flowery_1_ToggleLabelText 花丛 #2
+RockyToggleLabelText 石头
+RoadToggleLabelText 道路
+SnowyToggleLabelText 雪地
+FoundationToggleLabelText 地基
+ManualToggleLabelText 手动贴图
+SteepnessToggleLabelText 无视坡度
+HeightToggleLabelText 无视高度
+FootprintToggleLabelText 无视脚印
+
+BakeGlobalMaterialsButtonText 全局生成
+BakeGlobalMaterialsButtonTooltip 自动覆盖贴图
+
+BakeLocalMaterialsButtonText 局部生成
+BakeLocalMaterialsButtonTooltip 自动覆盖贴图
+
+SelectionBoxLabelText 选择
+SizeSliderLabelText 大小
+NoiseSliderLabelText 噪音
+PreviewToggleLabelText 预览
+
+Map2ButtonText1 陆地
+Map2ButtonText2 地基
+Map2ButtonTooltip 对地基或陆地进行处理

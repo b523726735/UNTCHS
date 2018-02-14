@@ -1,0 +1,17 @@
+Capacity_Text {0}/{1}
+Capacity_Label EXP储量
+Wallet_Label 角色持有
+Amount_Label 转移数目
+Transaction_Label 转移方式
+Tax_Label 损耗
+Net_Label 实转数目
+
+Deposit 转入
+Deposit_Label 转入EXP储存器
+Withdraw 转出
+Withdraw_Label 转出EXP储存器
+
+Yes_Button 转移
+Yes_Button_Tooltip 保存更改
+No_Button 取消
+No_Button_Tooltip 撤销更改

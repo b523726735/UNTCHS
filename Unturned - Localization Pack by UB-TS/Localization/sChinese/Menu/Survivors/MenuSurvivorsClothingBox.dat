@@ -1,0 +1,21 @@
+Key_Text 钥匙
+Key_Tooltip 点击这里浏览商店页面。
+
+Unbox_Text 开箱
+Unbox_Tooltip 使用一个钥匙打开箱子。
+
+Unwrap_Text 打开
+Unwrap_Tooltip 打开
+
+Origin_Unbox 你开了一个箱子！
+Origin_Unwrap 你打开了一个东西！
+
+Overlay 需要启用Steam界面。
+Exchange_Timed_Out Steam库存服务器暂时无响应。当下次刷新时你的物品将出现在你的库存内。
+Exchange_Unknown 你正在运行老版本的游戏（请退出并通过STEAM更新游戏）！
+Exchange_Mythic 出现了可怕的错误！
+
+Rarity_Rare 稀有几率： {0}%
+Rarity_Epic 史诗几率： {0}% 
+Rarity_Legendary 传说几率： {0}%
+Rarity_Mythical 神话几率： {0}%

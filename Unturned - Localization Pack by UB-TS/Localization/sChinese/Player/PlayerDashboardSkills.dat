@@ -1,0 +1,198 @@
+Speciality_0_Tooltip 进攻
+Speciality_1_Tooltip 防守
+Speciality_2_Tooltip 支援
+
+Speciality_0_Skill_0 格斗家
+Speciality_0_Skill_0_Tooltip 近战攻击力增强。
+Speciality_0_Skill_0_Level_1 +7% 肉搏/近战伤害
+Speciality_0_Skill_0_Level_2 +14% 肉搏/近战伤害
+Speciality_0_Skill_0_Level_3 +21% 肉搏/近战伤害
+Speciality_0_Skill_0_Level_4 +29% 肉搏/近战伤害
+Speciality_0_Skill_0_Level_5 +36% 肉搏/近战伤害
+Speciality_0_Skill_0_Level_6 +43% 肉搏/近战伤害
+Speciality_0_Skill_0_Level_7 +50% 肉搏/近战伤害
+Speciality_0_Skill_1 神射手
+Speciality_0_Skill_1_Tooltip 减少后坐力，提升准度
+Speciality_0_Skill_1_Level_1 +7% 稳定/准度
+Speciality_0_Skill_1_Level_2 +14% 稳定/准度
+Speciality_0_Skill_1_Level_3 +21% 稳定/准度
+Speciality_0_Skill_1_Level_4 +29% 稳定/准度
+Speciality_0_Skill_1_Level_5 +36% 稳定/准度
+Speciality_0_Skill_1_Level_6 +43% 稳定/准度
+Speciality_0_Skill_1_Level_7 +50% 稳定/准度
+Speciality_0_Skill_2 手速者
+Speciality_0_Skill_2_Tooltip 加速载弹速度。
+Speciality_0_Skill_2_Level_1 +10% 换弹/击打速度
+Speciality_0_Skill_2_Level_2 +20% 换弹/击打速度
+Speciality_0_Skill_2_Level_3 +30% 换弹/击打速度
+Speciality_0_Skill_2_Level_4 +40% 换弹/击打速度
+Speciality_0_Skill_2_Level_5 +50% 换弹/击打速度
+Speciality_0_Skill_3 超耐者
+Speciality_0_Skill_3_Tooltip 体力、氧气恢复速度更快。
+Speciality_0_Skill_3_Level_1 +10% 恢复速度
+Speciality_0_Skill_3_Level_2 +20% 恢复速度
+Speciality_0_Skill_3_Level_3 +30% 恢复速度
+Speciality_0_Skill_3_Level_4 +40% 恢复速度
+Speciality_0_Skill_3_Level_5 +50% 恢复速度
+Speciality_0_Skill_4 运动员
+Speciality_0_Skill_4_Tooltip 体力更加耐用。
+Speciality_0_Skill_4_Level_1 +5% 移动速度， +50% 耐力持久性
+Speciality_0_Skill_4_Level_2 +10% 移动速度， +100% 耐力持久性
+Speciality_0_Skill_4_Level_3 +15% 移动速度， +150% 耐力持久性
+Speciality_0_Skill_4_Level_4 +20% 移动速度， +200% 耐力持久性
+Speciality_0_Skill_4_Level_5 +25% 移动速度， +250% 耐力持久性
+Speciality_0_Skill_5 潜水员
+Speciality_0_Skill_5_Tooltip 在水中游得更快，憋气能力更强并减少因水流造成的摇摆。
+Speciality_0_Skill_5_Level_1 +5% 游泳速度， +50% 氧气恢复速度，+10% 身体稳定性
+Speciality_0_Skill_5_Level_2 +10% 游泳速度， +100% 氧气恢复速度，+20% 身体稳定性
+Speciality_0_Skill_5_Level_3 +15% 游泳速度， +150% 氧气恢复速度，+30% 身体稳定性
+Speciality_0_Skill_5_Level_4 +20% 游泳速度， +200% 氧气恢复速度 ，+40% 身体稳定性
+Speciality_0_Skill_5_Level_5 +25% 游泳速度， +250% 氧气恢复速度，+50% 身体稳定性
+Speciality_0_Skill_6 跑酷者
+Speciality_0_Skill_6_Tooltip 敏捷力提升，更高更快。
+Speciality_0_Skill_6_Level_1 +5% 跳跃高度， +10% 空中停留时间
+Speciality_0_Skill_6_Level_2 +10% 跳跃高度， +20% 空中停留时间
+Speciality_0_Skill_6_Level_3 +15% 跳跃高度， +30% 空中停留时间
+Speciality_0_Skill_6_Level_4 +20% 跳跃高度， +40% 空中停留时间
+Speciality_0_Skill_6_Level_5 +25% 跳跃高度， +50% 空中停留时间
+
+Speciality_1_Skill_0 潜行
+Speciality_1_Skill_0_Tooltip 行动更加安静，不容易被僵尸察觉。
+Speciality_1_Skill_0_Level_1 +11% 隐蔽度
+Speciality_1_Skill_0_Level_2 +21% 隐蔽度
+Speciality_1_Skill_0_Level_3 +32% 隐蔽度
+Speciality_1_Skill_0_Level_4 +43% 隐蔽度
+Speciality_1_Skill_0_Level_5 +54% 隐蔽度
+Speciality_1_Skill_0_Level_6 +64% 隐蔽度 
+Speciality_1_Skill_0_Level_7 +75% 隐蔽度
+Speciality_1_Skill_1 活力
+Speciality_1_Skill_1_Tooltip 不容易饥饿和口渴。
+Speciality_1_Skill_1_Level_1 +10% 恢复速度
+Speciality_1_Skill_1_Level_2 +20% 恢复速度
+Speciality_1_Skill_1_Level_3 +30% 恢复速度
+Speciality_1_Skill_1_Level_4 +40% 恢复速度
+Speciality_1_Skill_1_Level_5 +50% 恢复速度
+Speciality_1_Skill_2 免疫力
+Speciality_1_Skill_2_Tooltip 对细菌，僵尸和致幻剂的免疫加强。
+Speciality_1_Skill_2_Level_1 +10% 病毒耐力削弱
+Speciality_1_Skill_2_Level_2 +20% 病毒耐力削弱
+Speciality_1_Skill_2_Level_3 +30% 病毒耐力削弱
+Speciality_1_Skill_2_Level_4 +40% 病毒耐力削弱 
+Speciality_1_Skill_2_Level_5 +50% 病毒耐力削弱
+Speciality_1_Skill_3 刚性
+Speciality_1_Skill_3_Tooltip 减轻疼痛和近战伤害，不容易被击退。
+Speciality_1_Skill_3_Level_1 +15% 击退抑制/延迟失血灰色视觉出现
+Speciality_1_Skill_3_Level_2 +30% 击退抑制/延迟失血灰色视觉出现
+Speciality_1_Skill_3_Level_3 +45% 击退抑制/延迟失血灰色视觉出现
+Speciality_1_Skill_3_Level_4 +60% 击退抑制/延迟失血灰色视觉出现
+Speciality_1_Skill_3_Level_5 +75% 击退抑制/延迟失血灰色视觉出现
+Speciality_1_Skill_4 强壮
+Speciality_1_Skill_4_Tooltip 失血更慢，掉落伤害减低。恢复能力加强。
+Speciality_1_Skill_4_Level_1 +10% 血细胞再生/骨折愈合速度， +15% 掉落伤害减弱
+Speciality_1_Skill_4_Level_2 +20% 血细胞再生/骨折愈合速度， +30% 掉落伤害减弱
+Speciality_1_Skill_4_Level_3 +30% 血细胞再生/骨折愈合速度， +45% 掉落伤害减弱
+Speciality_1_Skill_4_Level_4 +40% 血细胞再生/骨折愈合速度， +60% 掉落伤害减弱
+Speciality_1_Skill_4_Level_5 +50% 血细胞再生/骨折愈合速度， +75% 掉落伤害减弱
+Speciality_1_Skill_5 热血
+Speciality_1_Skill_5_Tooltip 不畏严寒。
+Speciality_1_Skill_5_Level_1 +20% 进入寒冷状态时间
+Speciality_1_Skill_5_Level_2 +40% 进入寒冷状态时间
+Speciality_1_Skill_5_Level_3 +60% 进入寒冷状态时间
+Speciality_1_Skill_5_Level_4 +80% 进入寒冷状态时间
+Speciality_1_Skill_5_Level_5 +100% 进入寒冷状态时间
+Speciality_1_Skill_6 逆境求生
+Speciality_1_Skill_6_Tooltip 食物和水的消耗更加少。
+Speciality_1_Skill_6_Level_1 +5% 食物/水的需求减弱 
+Speciality_1_Skill_6_Level_2 +10% 食物/水的需求减弱 
+Speciality_1_Skill_6_Level_3 +15% 食物/水的需求减弱 
+Speciality_1_Skill_6_Level_4 +20% 食物/水的需求减弱 
+Speciality_1_Skill_6_Level_5 +25% 食物/水的需求减弱 
+
+Speciality_2_Skill_0 治疗
+Speciality_2_Skill_0_Tooltip 能更有效地治疗别人。
+Speciality_2_Skill_0_Level_1 +7% 治疗能力
+Speciality_2_Skill_0_Level_2 +14% 治疗能力
+Speciality_2_Skill_0_Level_3 +21% 治疗能力
+Speciality_2_Skill_0_Level_4 +29% 治疗能力
+Speciality_2_Skill_0_Level_5 +36% 治疗能力
+Speciality_2_Skill_0_Level_6 +43% 治疗能力
+Speciality_2_Skill_0_Level_7 +50% 治疗能力
+Speciality_2_Skill_1 制作
+Speciality_2_Skill_1_Tooltip 可以想出更复杂的建设蓝图。
+Speciality_2_Skill_1_Level_1 代用品
+Speciality_2_Skill_1_Level_2 代用品，基本建筑
+Speciality_2_Skill_1_Level_3 代用品，基本建筑，复杂的路障
+Speciality_2_Skill_2 伐木
+Speciality_2_Skill_2_Tooltip 能更快地砍倒树木。
+Speciality_2_Skill_2_Level_1 +10% 伐木速度
+Speciality_2_Skill_2_Level_2 +20% 伐木速度
+Speciality_2_Skill_2_Level_3 +30% 伐木速度
+Speciality_2_Skill_2_Level_4 +40% 伐木速度
+Speciality_2_Skill_2_Level_5 +50% 伐木速度
+Speciality_2_Skill_3 烹饪
+Speciality_2_Skill_3_Tooltip 可以制作高质量的食物。
+Speciality_2_Skill_3_Level_1 佐料
+Speciality_2_Skill_3_Level_2 佐料，小吃
+Speciality_2_Skill_3_Level_3 佐料，小吃，正餐
+Speciality_2_Skill_4 垂钓
+Speciality_2_Skill_4_Tooltip 能更快地钓到鱼。
+Speciality_2_Skill_4_Level_1 +20% 上钩速度
+Speciality_2_Skill_4_Level_2 +40% 上钩速度
+Speciality_2_Skill_4_Level_3 +60% 上钩速度
+Speciality_2_Skill_4_Level_4 +80% 上钩速度
+Speciality_2_Skill_4_Level_5 +100% 上钩速度
+Speciality_2_Skill_5 农耕
+Speciality_2_Skill_5_Tooltip 种下的农作物成长得更快。
+Speciality_2_Skill_5_Level_1 14% 收获机会， +3% 收获速度
+Speciality_2_Skill_5_Level_2 29% 收获机会， +7% 收获速度
+Speciality_2_Skill_5_Level_3 43% 收获机会， +10% 收获速度
+Speciality_2_Skill_5_Level_4 57% 收获机会， +14% 收获速度
+Speciality_2_Skill_5_Level_5 71% 收获机会， +18% 收获速度
+Speciality_2_Skill_5_Level_6 86% 收获机会， +21% 收获速度
+Speciality_2_Skill_5_Level_7 100% 收获机会， +25% 收获速度   
+Speciality_2_Skill_6 机械
+Speciality_2_Skill_6_Tooltip 修车和修理其他物品的能力增强。
+Speciality_2_Skill_6_Level_1 +40% 修理速度
+Speciality_2_Skill_6_Level_2 +80% 修理速度
+Speciality_2_Skill_6_Level_3 +120% 修理速度
+Speciality_2_Skill_6_Level_4 +160% 修理速度
+Speciality_2_Skill_6_Level_5 +200% 修理速度
+Speciality_2_Skill_7 工程师
+Speciality_2_Skill_7_Tooltip 能想出更加先进的制作蓝图。
+Speciality_2_Skill_7_Level_1 代用品
+Speciality_2_Skill_7_Level_2 代用品，基本道具
+Speciality_2_Skill_7_Level_3 代用品，基本道具，复杂的道具
+
+Boost_0 随机增加
+Boost_0_Tooltip 随机增加
+Boost_1 霸体
+Boost_1_Tooltip 减少僵尸带来的伤害。
+Boost_1_Bonus +25% 僵尸伤害削弱
+Boost_2 斯巴达之子
+Boost_2_Tooltip 疯狂的血液飞溅效果。
+Boost_2_Bonus +700% 血液飞溅。
+Boost_3 反牛顿
+Boost_3_Tooltip 尸体物理效果更加夸张，千斤顶的效果加强。
+Boost_3_Bonus +700% 尸体/千斤顶物理强度
+Boost_4 奥林匹克运动员
+Boost_4_Tooltip 能把丢掷物丢得更远。
+Boost_4_Bonus +100% 丢掷力度
+
+Skill {0} [{1}]
+Bonus_Current 目前等级： {0} 
+Bonus_Next 下一等级： {0} 
+Cost 升级花费： {0}
+Full Lv.MAX
+Experience 技能点： {0}
+
+Level_0 -
+Level_1 I
+Level_2 II
+Level_3 III
+Level_4 IV
+Level_5 V
+Level_6 VI
+Level_7 VII
+Level_8 VIII
+Level_9 IX
+Level_10 X

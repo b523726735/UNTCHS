@@ -1,0 +1,20 @@
+Type_0_Tooltip 工具
+Type_1_Tooltip 衣物
+Type_2_Tooltip 医疗物
+Type_3_Tooltip 装备
+Type_4_Tooltip 弹药
+Type_5_Tooltip 路障
+Type_6_Tooltip 建筑
+Type_7_Tooltip 修复
+Type_8_Tooltip 家具
+Type_9_Tooltip 维修
+
+Skill_1 Requires 手工 {0}
+Skill_2 Requires 烹饪 {0} + 热源
+Skill_3 Requires 工程 {0}
+
+Search_Field_Hint 蓝图名称过滤器
+Search 搜索
+Search_Tooltip 输入内容以搜索
+Hide_Uncraftable_Toggle_Label 隐藏暂时无法制作的蓝图
+No_Blueprints 根据你的搜索条件，没有可用的蓝图。

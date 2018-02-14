@@ -1,0 +1,16 @@
+BrowseButtonText 浏览创意工坊
+BrowseButtonTooltip 看看创意工坊上有什么神奇的作品
+SubmitButtonText 上传作品
+SubmitButtonTooltip 把你的杰作分享给全世界的Unturned玩家。
+EditorButtonText 编辑器
+EditorButtonTooltip 编辑器
+ErrorButtonText 记录
+ErrorButtonTooltip 错误记录，请反馈这些问题给创意工坊的作者吧！
+LocalizationButtonText 文本本地化
+LocalizationButtonTooltip 对比差异
+SpawnsButtonText 生成表
+SpawnsButtonTooltip 关于掉落几率的Debug
+ModulesButtonText 模组
+ModulesButtonTooltip 查看已载入的模组
+
+Overlay 需要启用Steam界面。

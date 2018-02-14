@@ -1,0 +1,4 @@
+Name 离开的那个人
+Description 如果你碰巧赶上Wallace的克星——巨型鱿鱼！你要记住，这是非常罕见的！
+
+Condition_0 抓住 {0}/{1} 只 {2}

@@ -1,0 +1,21 @@
+AdjustUpButtonText 提升 [{0}]
+AdjustUpButtonTooltip 往上拉
+
+AdjustDownButtonText 下陷 [{0}]
+AdjustDownButtonTooltip 往下拉
+
+SmoothButtonText 平滑 [{0}]
+SmoothButtonTooltip 使局部自然化
+
+FlattenButtonText 平整 [{0}]
+FlattenButtonTooltip 直接拉到设定的高度
+
+SizeSliderLabelText 大小
+NoiseSliderLabelText 噪音
+StrengthSliderLabelText 强度
+
+HeightValueLabelText 高度
+
+Map2ButtonText1 陆地
+Map2ButtonText2 地基
+Map2ButtonTooltip 对地基或陆地进行处理

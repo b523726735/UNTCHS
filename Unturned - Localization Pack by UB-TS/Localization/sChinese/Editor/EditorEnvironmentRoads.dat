@@ -1,0 +1,19 @@
+SelectionBoxLabelText 选择
+
+WidthFieldLabelText 宽度
+HeightFieldLabelText 贴图相对长度
+DepthFieldLabelText 厚度
+ConcreteToggleLabelText 具体化
+
+BakeRoadsButtonText 开始生成
+BakeRoadsButtonTooltip 建立道路
+
+ModeButtonTooltipText 道路模式
+OffsetFieldLabelText 偏移
+IgnoreTerrainToggleLabelText 无视地形
+LoopToggleLabelText 环状
+RoadIndexLabelText 道路参数
+
+Mirror 镜像模式
+Aligned 对齐模式
+Free 自由模式

@@ -1,0 +1,45 @@
+Page 第{0}/{1}页
+
+Search_Field_Hint 在此输入名字以筛选
+Search 搜索
+Search_Tooltip 搜索
+Filter_Item_Target 正在为 {0} 选择目标...
+Cancel_Filter 取消
+Cancel_Filter_Tooltip 停止目前操作。
+Left_Tooltip 左
+Right_Tooltip 右
+Swap_Tooltip 显示着装
+Refresh_Tooltip 刷新页面
+
+Origin_Drop 你有一个新物品！
+
+Mystery_-1_Text SR传说道具
+Mystery_-2_Text IR闹鬼道具
+Mystery_-3_Text IR假日之魂道具
+Mystery_-4_Text SR五彩道具
+Mystery_-5_Text SR嗜血道具
+Mystery_Tooltip ???
+
+Itemstore 后援储备
+Itemstore_Tooltip 点击这里查看库存。
+Crafting 合成
+Crafting_Tooltip 点击这里可用的蓝图。
+Backpack 背包
+Backpack_Tooltip 点击这里返回你的背包。
+Featured_Tooltip 点击这里查看这项物品。
+
+Craft_Available 可用的<color=gold>合成材料</color>： {0}
+Alert_Crafting 合成中...
+Craft_Entry 合成 {0} - <color=gold>合成材料</color> x{1}
+Craft_Common_Cosmetic <color=common>低级掉落化妆品</color>
+Craft_Common_Skin <color=common>低级掉落皮肤</color>
+Craft_Uncommon_Cosmetic <color=common>高级掉落化妆品</color>
+Craft_Uncommon_Skin <color=common>高级掉落皮肤</color>
+Craft_Stat_Tracker_Total_Kills <color=#ff7f00>总杀敌数计数器</color>
+Craft_Stat_Tracker_Player_Kills <color=#ff0000>玩家杀敌数计数器</color>
+
+Origin_Craft 你合成了一件物品！
+
+No_Items 等待Steam库存服务器响应...
+
+Overlay 需要启用Steam界面。

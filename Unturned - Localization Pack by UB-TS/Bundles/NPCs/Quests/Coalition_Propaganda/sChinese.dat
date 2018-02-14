@@ -1,0 +1,8 @@
+Name 把这个词说出来
+Description 对于没有收音机的幸存者，<color=legendary>指挥官Laurence</color> 计划做个海报，上面画个箭头指向“解放者”。他建议在每个镇/市的警察贴上这种海报。
+
+Condition_0 Jhavesk 警察局 {0}/1
+Condition_1 Yekativurg 警察局 {0}/1
+Condition_2 St. Petersburg 警察局 {0}/1
+Condition_3 Moscow West 警察局 {0}/1
+Condition_4 Moscow South 警察局 {0}/1

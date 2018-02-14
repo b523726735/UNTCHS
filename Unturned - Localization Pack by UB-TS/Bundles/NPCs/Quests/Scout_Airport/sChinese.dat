@@ -1,0 +1,4 @@
+Name 猎油作战
+Description <color=rare>Oswald中尉</color>准备给你个试探地点的机会，这次是位于莫斯科东北方向的一个机场。通常的做法就是干掉“几只”僵尸，分析下地形，选择一个最值得保护的位置报告上去。
+
+Condition_0 清空机场 <color=legendary>Horde Beacon</color> {0}/{1}

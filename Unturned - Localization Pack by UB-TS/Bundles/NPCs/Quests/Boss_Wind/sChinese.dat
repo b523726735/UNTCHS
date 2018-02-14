@@ -1,0 +1,4 @@
+Name <color=mythical>地震之后</color>
+Description 在Peter从Yekativurg逃离时，差点被一只从天而降的大僵尸砸死，那只东西撞到地面上造成了“小型地震”。Peter这几天都能梦到那只东西，如果你把它解决掉了，Peter一定会很感激的。
+
+Condition_0 击败 {0}/{1} <color=mythical>震地尸王</color>

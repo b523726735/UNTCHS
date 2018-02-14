@@ -1,0 +1,4 @@
+Name 批量生产
+Description 在俄罗斯有很多放满了二战和冷战的军事器械的仓库，特别是西北的这个仓库。根据和六年前的卫星图像做对比，种种迹象表明它最近被重新投入使用了，<color=rare>Oswald中尉</color>认为那里可能生产了新的装甲载具。
+
+Condition_0 清除坦克工厂 <color=legendary>Horde Beacon</color> {0}/{1}

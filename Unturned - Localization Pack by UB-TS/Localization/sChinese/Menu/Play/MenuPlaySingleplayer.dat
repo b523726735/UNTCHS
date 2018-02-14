@@ -1,0 +1,56 @@
+Play_Button 开始游戏
+Play_Button_Tooltip 开始游戏
+
+Any_Button 随机
+Easy_Button 简单
+Normal_Button 普通
+Hard_Button 困难
+
+Config_Button 进阶
+Config_Button_Tooltip 更改游戏性设置
+
+Reset_Button 重置世界
+Reset_Button_Tooltip 清除单人游戏下的所有储存数据。
+Reset_Button_Confirm 重置世界
+Reset_Button_Confirm_Tooltip 这是不可逆的操作！你确定要这么做吗？
+Reset_Button_Deny 取消
+Reset_Button_Deny_Tooltip 保留在该图上的玩家数据。
+
+Maps_Official 官方地图
+Maps_Official_Tooltip 由Nelson制作的官方地图组
+Maps_Curated 精选地图
+Maps_Curated_Tooltip 由官方挑选的社区地图
+Maps_Workshop 创意工坊
+Maps_Workshop_Tooltip 从创意工坊下载的地图
+Maps_Misc 其他地图
+Maps_Misc_Tooltip 活动或测试用地图
+
+Tiny 微型地图
+Small 小型地图
+Medium 中型地图
+Large 大型地图
+Insane 巨型地图
+
+Curated_Map_Timed 期间限定
+Curated_Map_Timestamp {0}
+Curated_Map_Timestamp_Format yy/MM/dd
+
+Cheats_Label 作弊模式
+
+Survival 生存模式
+Horde 部落战模式 [Alpha测试中]
+Arena 竞技模式
+
+Info {0} - {1}
+
+Creators 制作者：
+Collaborators 创作协助名单：
+Thanks 特别感谢：
+Credits_Text 如果你喜欢这张叫 {0} 的地图并考虑支持它的作者的话，请查看 {1}！更多的细节将在这里公布。
+Credits_Tooltip 点击这里查看。
+Timed_Text 该官方地图将持续保留到： <color=#00FF00>{0}</color> 随后将在创意工坊提供下载。
+
+Feedback_Button 建议&BUG反馈
+Feedback_Button_Tooltip 点击以查看讨论串。
+
+Overlay 需要启用Steam界面。

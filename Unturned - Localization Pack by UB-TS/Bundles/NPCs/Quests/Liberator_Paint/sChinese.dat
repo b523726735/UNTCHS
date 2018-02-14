@@ -1,0 +1,5 @@
+Name 刷个新油漆
+Description Liberator的名字开始褪色了，Rusty认为应该重新上一下色。有时间去一下圣彼得堡，他很肯定五金店还有点白漆。
+
+Condition_0 找到白漆 {0}/1
+Condition_1 给"Liberator"上色 {0}/1

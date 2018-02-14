@@ -1,0 +1,39 @@
+VAC_Secure VAC保护
+VAC_Insecure VAC未保护
+BattlEye_Secure 需要开启BattlEye
+BattlEye_Insecure BattlEye已禁用
+Streamer 直播模式
+Offline 离线模式
+
+Loading 载入中...
+Loading_Clean 打扫一下...
+Loading_Blueprints 联结蓝图...
+Loading_Spawns 联结生成表...
+Loading_Misc 加载冗余项目...
+Assets_Scan 已找到{0}： {1} 个
+Assets_Load 载入{0}中：第 {1}/{2} 个
+Level_Load 载入关卡中： {0}%
+Queue_Position 目前排队位置： #{0}
+Queue_Cancel 取消
+Queue_Cancel_Tooltip 离开队列
+
+Asset 全体
+Item 道具
+Effect 特效
+Object 物件
+Resource 资源
+Vehicle 载具
+Animal 动物
+Mythic 谜团
+Skin 皮肤
+Spawn 生成表
+Map 地图
+Workshop_Shared 创意工坊分享内容
+Workshop_Server 创意工坊服务端
+Workshop_Client 创意工坊客户端
+Bundles_Server 服务器
+NPC NPC
+
+Creators 制作者：
+Collaborators 创作协助名单：
+Thanks 特别感谢：

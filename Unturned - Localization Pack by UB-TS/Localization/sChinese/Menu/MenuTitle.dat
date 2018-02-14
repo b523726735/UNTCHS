@@ -1,0 +1,20 @@
+Author_Label 由 {1} 制作    //    版本 {0}
+
+Stat_Kills_Zombies_Normal 你总共杀了 {0} 只普通僵尸！全世界玩家总共杀了 {1} 只！
+Stat_Kills_Players 你总共杀了 {0} 位玩家！全世界玩家总共杀了 {1} 人！
+Stat_Deaths_Players 你死了 {0} 次！全世界玩家总共死了 {1} 次！
+Stat_Found_Items 你总共找到了 {0} 件道具！全世界玩家总共找到了 {1} 件！
+Stat_Found_Resources 你总共收获了 {0} 个作物！全世界玩家总共收获了 {1} 个！
+Stat_Found_Experience 你总共获得了 {0} 点技能点！全世界玩家总共获得了 {1} 点！
+Stat_Kills_Zombies_Mega 你总共杀了 {0} 只巨型僵尸！全世界玩家总共杀了 {1} 只！
+Stat_Kills_Animals 你总共杀了 {0} 只野生动物！全世界玩家总共杀了 {1} 只！
+Stat_Found_Crafts 你总共制作了 {0} 件道具！全世界玩家总共制作了 {1} 件！
+Stat_Found_Fishes 你总共捉到了 {0} 条鱼！全世界玩家总共捉了 {1} 条！
+Stat_Found_Plants 你总共种植了 {0} 棵植株！全世界玩家总共种了 {1} 棵！
+Stat_Accuracy 你总共开了 {0} 枪！准确率为： {1}%！全世界玩家总共开了 {2} 枪！平均准确率为 {3}%！
+Stat_Headshots 你总共爆头 {0} 次！全世界玩家总共爆头 {1} 次！
+Stat_Travel_Foot 你总共步行了 {0} ！全世界玩家总共步行了 {1} ！
+Stat_Travel_Vehicle 你总共行驶了 {0} ！全世界玩家总共行驶了 {1} ！
+Stat_Arena_Wins 你总共赢了 {0} 场竞技比赛！全世界玩家总共赢了 {1} 场！
+Stat_Found_Buildables 你总共建造了 {0} 个建筑！全世界玩家总共建造了 {1} 个！
+Stat_Found_Throwables 你总共丢了 {0} 个投掷物！全世界玩家总共丢了 {1} 个！

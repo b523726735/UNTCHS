@@ -1,0 +1,16 @@
+Save_Button 保存地图
+Save_Button_Tooltip 保存更改的所有设定
+
+Map_Button 地图
+Map_Button_Tooltip 截图卫星地图
+
+Chart_Button 路线
+Chart_Button_Tooltip 截取路线地图
+
+Legacy_Spawns 旧版生成
+Legacy_Spawns_Tooltip 输出旧版生成表
+Proxy_Spawns 新版生成
+Proxy_Spawns_Tooltip 输出新版生成表
+
+Exit_Button 退出编辑
+Exit_Button_Tooltip 不保存直接退出

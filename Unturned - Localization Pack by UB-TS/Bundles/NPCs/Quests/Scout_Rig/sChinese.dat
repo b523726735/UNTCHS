@@ -1,0 +1,4 @@
+Name 第一次接触
+Description 这已经不是<color=legendary>联盟</color>第一次去来俄罗斯了。在组织刚成立的时候，一队由俄罗斯任务部队为主力的队伍在西南海域占领了一个海上石油钻井平台，作为收回大陆的中转站，但中间出了点问题。<color=rare>Oswald中尉</color>要你查下到底发生了什么。
+
+Condition_0 清除石油钻机 <color=legendary>Horde Beacon</color> {0}/{1}

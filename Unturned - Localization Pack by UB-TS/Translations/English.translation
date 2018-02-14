@@ -1,0 +1,781 @@
+"Metadata"
+{
+	"Language" "english"
+	"Namespace" "SDG"
+}
+"Translation"
+{
+	"Asset"
+	{
+		"AssetReference"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "游戏资源GUID"
+					"Version" "1"
+				}
+			}
+		}
+		"ContentReference"
+		{
+			"Name"
+			{
+				"Name"
+				{
+					"Text" "内容名称"
+					"Version" "1"
+				}
+			}
+			"Path"
+			{
+				"Name"
+				{
+					"Text" "内容位置"
+					"Version" "1"
+				}
+			}
+		}
+		"Asset"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "GUID"
+					"Version" "1"
+				}
+				"Tooltip"
+				{
+					"Text" "128位独立ID"
+					"Version" "1"
+				}
+			}
+		}
+		"Item"
+		{
+			"Gun"
+			{
+				"Ammo_Min"
+				{
+					"Name"
+					{
+						"Text" "最小弹药数"
+						"Version" "1"
+					}
+				}
+				"Ammo_Max"
+				{
+					"Name"
+					{
+						"Text" "最大弹药数"
+						"Version" "1"
+					}
+				}
+			}
+		}
+		"Landscape"
+		{
+			"Material"
+			{
+				"Texture"
+				{
+					"Name"
+					{
+						"Text" "贴图"
+						"Version" "1"
+					}
+				}
+				"Mask"
+				{
+					"Name"
+					{
+						"Text" "覆盖"
+						"Version" "1"
+					}
+				}
+				"Physics_Material"
+				{
+					"Name"
+					{
+						"Text" "物理材料"
+						"Version" "1"
+					}
+				}
+			}
+			"Material_Set"
+			{
+				"Materials"
+				{
+					"Name"
+					{
+						"Text" "材质"
+						"Version" "1"
+					}
+				}
+			}
+		}
+	}
+	"Devkit"
+	{
+		"Landscape_Tool"
+		{
+			"Heightmap_Brush_Radius_Var"
+			{
+				"Text" "设置Heightmap_Brush_Radius为： {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Falloff_Var"
+			{
+				"Text" "设置Heightmap_Brush_Falloff为： {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Strength_Var"
+			{
+				"Text" "设置Heightmap_Brush_Strength为： {0}"
+				"Version" "1"
+			}
+			"Heightmap_Flatten_Target_Var"
+			{
+				"Text" "设置Heightmap_Flatten_Target为： {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Radius_Var"
+			{
+				"Text" "设置Splatmap_Brush_Radius为： {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Falloff_Var"
+			{
+				"Text" "设置Splatmap_Brush_Falloff为： {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Strength_Var"
+			{
+				"Text" "设置Splatmap_Brush_Strength为： {0}"
+				"Version" "1"
+			}
+			"Splatmap_Use_Weight_Target_Var"
+			{
+				"Text" "设置Splatmap_Use_Weight_Target为： {0}"
+				"Version" "1"
+			}
+			"Splatmap_Weight_Target_Var"
+			{
+				"Text" "设置Splatmap_Weight_Target为： {0}"
+				"Version" "1"
+			}
+			"Splatmap_Layer_Target_Var"
+			{
+				"Text" "设置Splatmap_Layer_Target为： {0}"
+				"Version" "1"
+			}
+			"Heightmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "半径"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "衰弱"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "强度"
+						"Version" "1"
+					}
+				}
+				"Flatten_Target"
+				{
+					"Text" "平整目标"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "最大预览样本"
+					"Version" "1"
+				}
+			}
+			"Splatmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "半径"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "衰弱"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "强度"
+						"Version" "1"
+					}
+				}
+				"Use_Weight_Target"
+				{
+					"Text" "使用重量目标"
+					"Version" "1"
+				}
+				"Weight_Target"
+				{
+					"Text" "重量目标"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "最大预览样本"
+					"Version" "1"
+				}
+			}
+		}
+		"Toolbar"
+		{
+			"File"
+			{
+				"Exit"
+				{
+					"Text" "退出"
+					"Version" "1"
+				}
+			}
+			"Edit"
+			{
+				"Undo"
+				{
+					"Text" "撤销"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "重做"
+					"Version" "1"
+				}
+			}
+		}
+		"Transactions"
+		{
+			"Heightmap"
+			{
+				"Text" "高度图"
+				"Version" "1"
+			}
+			"Splatmap"
+			{
+				"Text" "Splatmap"
+				"Version" "1"
+			}
+			"Generic"
+			{
+				"Text" "更改"
+				"Version" "1"
+			}
+			"Field_Delta"
+			{
+				"Text" "把\"{0}\"的\"{1}\"更改为\"{3}\"（原：\"{2}\"）"
+				"Version" "1"
+			}
+			"Property_Delta"
+			{
+				"Text" "把\"{0}\"的属性\"{1}\"更改为\"{3}\"（原：\"{2}\"）"
+				"Version" "1"
+			}
+			"Spawn"
+			{
+				"Text" "生成\"{0}\""
+				"Version" "1"
+			}
+			"Delete_Selection"
+			{
+				"Text" "删除选中"
+				"Version" "1"
+			}
+			"Paste"
+			{
+				"Text" "粘贴"
+				"Version" "1"
+			}
+			"Transform"
+			{
+				"Text" "转换"
+				"Version" "1"
+			}
+			"Translation"
+			{
+				"Text" "翻译"
+				"Version" "1"
+			}
+		}
+		"Window"
+		{
+			"Asset_Browser"
+			{
+				"Title"
+				{
+					"Text" "资源浏览器"
+					"Version" "1"
+				}
+			}
+			"Content_Browser"
+			{
+				"Title"
+				{
+					"Text" "内容浏览器"
+					"Version" "1"
+				}
+			}
+			"Foliage_Tool"
+			{
+				"Title"
+				{
+					"Text" "叶子工具"
+					"Version" "1"
+				}
+			}
+			"Hierarchy"
+			{
+				"Title"
+				{
+					"Text" "层次"
+					"Version" "1"
+				}
+			}
+			"Inspector"
+			{
+				"Title"
+				{
+					"Text" "检查器"
+					"Version" "1"
+				}
+				"Key"
+				{
+					"Text" "项目"
+					"Version" "1"
+				}
+				"Value"
+				{
+					"Text" "值"
+					"Version" "1"
+				}
+			}
+			"Layout"
+			{
+				"Title"
+				{
+					"Text" "布局"
+					"Version" "1"
+				}
+				"Load"
+				{
+					"Text" "载入"
+					"Version" "1"
+				}
+				"Save"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+			}
+			"Type_Browser"
+			{
+				"Title"
+				{
+					"Text" "类型浏览器"
+					"Version" "1"
+				}
+			}
+			"Save"
+			{
+				"Title"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "取消"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+			}
+			"Selection_Tool"
+			{
+				"Title"
+				{
+					"Text" "选择工具"
+					"Version" "1"
+				}
+			}
+			"Landscape_Tool"
+			{
+				"Title"
+				{
+					"Text" "景观工具"
+					"Version" "1"
+				}
+				"Heightmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "高度图 [1]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "贴图 [2]"
+						"Version" "1"
+					}
+				}
+				"Tile_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "块 [3]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Adjust_Button"
+				{
+					"Label"
+					{
+						"Text" "调整 [Q]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Button"
+				{
+					"Label"
+					{
+						"Text" "平整 [W]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Button"
+				{
+					"Label"
+					{
+						"Text" "平滑 [E]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Ramp_Button"
+				{
+					"Label"
+					{
+						"Text" "斜坡 [R]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "半径 [B]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "衰减 [F]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "强度 [V]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Target"
+				{
+					"Label"
+					{
+						"Text" "平整目标 [Alt]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Method"
+				{
+					"Label"
+					{
+						"Text" "平滑方法"
+						"Version" "1"
+					}
+					"Brush_Average"
+					{
+						"Text" "刷子均值"
+						"Version" "1"
+					}
+					"Pixel_Average"
+					{
+						"Text" "平均像素"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "半径 [B]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "衰减[F]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "强度[V]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Use_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "对目标使用参数[Ctrl]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "参数目标[G]"
+						"Version" "1"
+					}
+				}
+				"Tile_Material_Set"
+				{
+					"Label"
+					{
+						"Text" "设置材质"
+						"Version" "1"
+					}
+				}
+			}
+			"Transaction"
+			{
+				"Title"
+				{
+					"Text" "操作"
+					"Version" "1"
+				}
+				"Undo"
+				{
+					"Text" "撤掉："
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "重做："
+					"Version" "1"
+				}
+			}
+			"Translation"
+			{
+				"Title"
+				{
+					"Text" "翻译"
+					"Version" "4"
+				}
+				"Edit_Origin"
+				{
+					"Text" "编辑原版\"{0}\""
+					"Version" "3"
+				}
+				"Edit_Translation"
+				{
+					"Text" "编辑翻译\"{0}\""
+					"Version" "2"
+				}
+				"Origin_Misses"
+				{
+					"Text" "原版\"{0}\"遗漏"
+					"Version" "3"
+				}
+				"Origin_Translation_Delta"
+				{
+					"Text" "原版\"{0}\" -> 翻译\"{1}\"更新"
+					"Version" "2"
+				}
+				"Tree_Back"
+				{
+					"Text" "返回"
+					"Version" "1"
+				}
+				"Tree_Add_Leaf"
+				{
+					"Text" "+子项"
+					"Version" "1"
+				}
+				"Tree_Add_Branch"
+				{
+					"Text" "+分支"
+					"Version" "1"
+				}
+				"Clear_Misses"
+				{
+					"Text" "清除遗漏项"
+					"Version" "1"
+				}
+				"Refresh_Misses"
+				{
+					"Text" "刷新遗漏项"
+					"Version" "1"
+				}
+				"Refresh_Delta"
+				{
+					"Text" "刷新更新"
+					"Version" "1"
+				}
+			}
+			"Load"
+			{
+				"Title"
+				{
+					"Text" "载入"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "取消"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "载入"
+					"Version" "1"
+				}
+			}
+		}
+		"Selection_Tool"
+		{
+			"Snap_Position"
+			{
+				"Text" "对齐位置"
+				"Version" "1"
+			}
+			"Snap_Rotation"
+			{
+				"Text" "对齐方向"
+				"Version" "1"
+			}
+			"Snap_Scale"
+			{
+				"Text" "对齐尺度"
+				"Version" "1"
+			}
+			"Surface_Offset"
+			{
+				"Text" "表面位移"
+				"Version" "1"
+			}
+			"Surface_Align"
+			{
+				"Text" "对齐表面"
+				"Version" "1"
+			}
+			"Local_Space"
+			{
+				"Text" "局部空间"
+				"Version" "1"
+			}
+		}
+		"Foliage_Tool"
+		{
+			"Brush"
+			{
+				"Radius"
+				{
+					"Text" "半径"
+					"Version" "1"
+				}
+				"Falloff"
+				{
+					"Text" "衰减"
+					"Version" "1"
+				}
+				"Strength"
+				{
+					"Text" "强度"
+					"Version" "1"
+				}
+			}
+			"Density_Target"
+			{
+				"Text" "密度指标"
+				"Version" "1"
+			}
+			"Max_Preview_Samples"
+			{
+				"Text" "最大预览样本"
+				"Version" "1"
+			}
+			"Surface_Mask"
+			{
+				"Text" "表面覆盖"
+				"Version" "1"
+			}
+		}
+		"Volumes"
+		{
+			"Kill"
+			{
+				"Players"
+				{
+					"Text" "杀死玩家"
+					"Version" "1"
+				}
+				"Zombies"
+				{
+					"Text" "杀死僵尸"
+					"Version" "1"
+				}
+				"Animals"
+				{
+					"Text" "杀死动物"
+					"Version" "1"
+				}
+				"Vehicles"
+				{
+					"Text" "毁坏汽车"
+					"Version" "1"
+				}
+			}
+			"Death_Cause"
+			{
+				"Text" "死亡原因"
+				"Version" "1"
+			}
+		}
+	}
+}

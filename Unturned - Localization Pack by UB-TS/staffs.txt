@@ -1,0 +1,232 @@
+Credits:
+Translating,Proofreading,Packing:
+X Virus Buster
+
+Special Thanks to:
+numbersCAT-For giving advice of magazines translating
+
+Game title:Unturned
+Translated name:
+(CHS)Î´×ª±äÕß
+AVAILABLE VERSION:3.19.1.0(Updated at 2017/06/23)
+Language:Simplified Chinese
+Localization version:6.90
+Bundle version:5.20
+
+#------------------------------------------------------#
+For leatest change log:
+Localization:http://steamcommunity.com/sharedfiles/filedetails/changelog/620217299
+Bundle:http://steamcommunity.com/sharedfiles/filedetails/changelog/620549686
+#------------------------------------------------------#
+
+[2016/10/02]5.31 Update Notes
+Bundle:
+Fully supported Version 3.17.0.0
+Localization:
+Fully supported Version 3.17.0.0
+
+[2016/09/17]5.22 Update Notes
+Emergency Repair a file error (a String Repeation caused translation files Unloaded)
+
+[2016/09/17]5.21 Update Notes
+Bundle:
+None
+Localization:
+Fully supported Version 3.16.4.0
+Correction of graphic settings texts(Thanks to Nvidia Geforce Experience)
+
+[2016/09/03]5.10 Update Notes
+Bundle:
+None
+Localization:
+Fully supported Version 3.16.2.0
+
+[2016/08/29]5.00 Update Notes
+Bundle:
+None
+Localization:
+Fully supported Version 3.16.1.1
+
+[2016/08/20]4.90 Update Notes
+Bundle:
+Fully supported Version 3.16.0.0
+Localization:
+Fully supported Version 3.16.0.0
+
+[2016/08/13]4.81 Update Notes
+Bundle:
+None
+Localization:
+Fully supported Version 3.15.13.0
+Deleted an unused variable
+
+[2016/08/06]4.70 Update Notes
+Bundle:
+Fully supported Version 3.15.12.0
+Notes Fixed
+Localization:
+Fully supported Version 3.15.12.0
+
+[2016/07/30]4.60 Update Notes
+Bundle:
+Fully supported Version 3.15.11.0
+Localization:
+Fully supported Version 3.15.11.0
+
+[2016/07/24]4.51 Update Notes
+Bundle:
+Corrected some mistaken translation of magazines according numbersCAT¡¯s advice
+Localization:
+Corrected some mistaken translation
+
+[2016/07/23]4.50 Update Notes
+Bundle:
+Fully supported Version 3.15.10.0
+Localization:
+Fully supported Version 3.15.10.0
+
+[2016/07/12]4.40 Update Notes
+Bundle:
+Fully supported Version 3.15.9.0
+Localization:
+Fully supported Version 3.15.9.0
+
+[2016/07/08]4.30 Update Notes
+Bundle:
+Corrected a wrong translation.
+Localization:
+Fully supported Version 3.15.8.2
+
+[2016/07/02]4.20 Update Notes
+Fully supported Version 3.15.7.0
+
+[2016/06/30]4.11 Update Notes(Non-released)
+reProofreaded notes
+
+[2016/06/30]4.11 Update Notes
+Fully supported Version 3.15.6.2
+
+[2016/06/25]4.10 Update Notes
+Fully supported Version 3.15.6.1
+
+[2016/06/18]4.00 Update Notes
+Fully supported Version 3.15.5.0
+
+[2016/06/14]3.90 Update Notes
+Updated Bundle files to 3.15.4.0
+
+[2016/06/11]3.90 Update Notes
+Fully supported Version 3.15.4.0
+
+[2016/06/10]3.81 Update Notes
+Added two missing text.
+
+[2016/06/09]3.80 Update Notes
+Fully supported Version 3.15.3.1
+
+[2016/05/29]3.71 Update Notes
+Added map nodes.
+
+[2016/05/29]3.70 Update Notes
+Fully supported Version 3.15.2.1a
+
+[2016/05/16]3.60 Update Notes
+Fully supported Version 3.15.0.2
+
+[2016/05/01]3.50 Update Notes
+Fully supported Version 3.14.15.1
+Now at Magazines' description,Guns' name has its own color.
+Uniformed terminologies
+
+[2016/04/04]3.41 Update Notes
+Fully supported Version 3.14.11.3
+
+[2016/04/02]3.40 Update Notes
+Fully supported Version 3.14.11.0
+Changed some text about server config
+
+[2016/03/20]3.35 Update Notes
+Fully supported Version 3.14.9.1
+Deleted Redundant files
+
+[2016/03/13]3.30 Update Notes
+Fully supported Version 3.14.8.0
+Corrected some mistaken translation according feedbacks
+Translation for new items
+
+[2016/02/15]3.26 Update Notes
+Emergency Repair a file error (a String Repeation caused translation files Unloaded)
+
+[2016/02/15]3.25 Update Notes
+Fully supported Version 3.14.4.0
+Corrected a wrong translation.
+
+[2016/02/11]3.10 Update Notes
+Item translation completed
+
+[2016/02/10]3.01 Update Notes
+Item translation in progress
+Workshop menu translation completed
+
+[2016/02/10]3.0 Update Notes
+Partly supported Version 3.14.3.1
+Item translation in progress
+Workshop menu translation In progress
+
+[2015/03/01]2.50 Update Notes
+Fully supported Version 3.7.5.0
+
+[2015/03/01]2.40 Update Notes
+Fully supported Version 3.7.4.0
+For UB Unturned Server Special Update.
+
+[2015/02/25]2.30 Update Notes
+Support Version 3.7.1.5
+Corrected some translation errors.
+Deleted Japanese localization.
+Final Update
+
+[2015/02/21]2.28 Update Notes
+Updated some texts.
+For VAC reasons,replaced original nodes file.renamed translated nodes file as "nodes.dat.chs"
+
+[2015/02/19]2.18 Update Notes
+Support Version 3.6.8.0
+
+[2015/02/16]2.16 Update Notes(Non-released)
+Translated some texts.(Blowtorch)
+
+[2015/02/16]2.15 Update Notes
+Support Version 3.6.6.0
+
+[2015/02/12]2.13 Update Notes
+Support Version 3.6.4.0
+
+[2015/02/10]2.12 Update Notes
+Support Verison 3.6.3.0
+Corrected some translation errors.
+Re-Translated some texts.
+Translated map Canada nodes
+
+[2015/02/09]2.02 Update Notes
+Corrected some translation errors.(Can be misleading)
+Re-Translated some texts.(The possible infringement of the text)
+Deleted some outdated texts.(Localization\sChinese\Menu\Survivors\MenuSurvivorsCharacter.dat)
+Updated Japanese translation
+
+[2015/02/05]2.01 Update Notes
+Support Verison 3.6.2.0
+Added editor object tranlations.(Medium)
+Updated Japanese translation
+
+[2015/02/05]1.95 Update Notes
+Corrected some translation errors.(Editor Terrain)
+Added editor object tranlations.(Large/Small)
+
+[2015/02/04]1.87 Update Notes
+Support Verison 3.6.1.1
+Corrected some translation errors.(tChinese words to sChinese words)
+Added editor object tranlations.(Vehicles/Large Building)
+Added Japanese menu(In Progress£©
+
+UB Website£ºhttp://www.moeub.com/

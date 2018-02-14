@@ -1,0 +1,66 @@
+//
+// Add any constant from the UnityEngine.KeyCode enum to translate it here. It doesn't matter if it's in the default English file.
+// For example "Backslash обра́тный слэш" to translate the "\" key.
+//
+
+Alpha0 1
+Alpha1 2
+Alpha2 3
+Alpha3 4
+Alpha4 5
+Alpha5 6
+Alpha6 7
+Alpha7 8
+Alpha8 9
+Alpha9 0
+
+LeftParen (
+RightParen )
+LeftBracket [
+RightBracket ]
+BackQuote ~
+
+Keypad0 小键盘#1
+Keypad1 小键盘#2
+Keypad2 小键盘#3
+Keypad3 小键盘#4
+Keypad4 小键盘#5
+Keypad5 小键盘#6
+Keypad6 小键盘#7
+Keypad7 小键盘#8
+Keypad8 小键盘#9
+Keypad9 小键盘#0
+
+Space 空格
+
+UpArrow ↑
+LeftArrow ←
+RightArrow →
+DownArrow ↓
+
+PageUp Page Up
+PageDown Page Down
+
+CapsLock Caps Lock
+
+RightShift 右Shift
+LeftShift 左Shift
+RightControl 右Ctrl
+LeftControl 左Ctrl
+RightAlt 右Alt
+LeftAlt 左Alt
+LeftWindows 左Windows
+RightWindows 右Windows
+
+//Apple keys
+RightCommand 右Command
+RightApple 右Apple
+LeftCommand 左Command
+LeftApple 左Apple
+
+Mouse0 鼠标左键
+Mouse1 鼠标右键
+Mouse2 滚轮（鼠标中键）
+Mouse3 鼠标功能键#1
+Mouse4 鼠标功能键#2
+Mouse5 鼠标功能键#3

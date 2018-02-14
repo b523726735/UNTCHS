@@ -1,0 +1,140 @@
+Rarity_0 普通
+Rarity_1 罕见
+Rarity_2 稀有
+Rarity_3 史诗
+Rarity_4 传奇
+Rarity_5 神秘
+
+Type_0 帽子
+Type_1 裤子
+Type_2 上衣
+Type_3 面具
+Type_4 背包
+Type_5 背心
+Type_6 眼睛
+Type_7 远程武器
+Type_8 瞄准仪
+Type_9 战术配件
+Type_10 握柄配件
+Type_11 枪管配件
+Type_12 弹夹
+Type_13 食物
+Type_14 饮料
+Type_15 医药
+Type_16 近战武器
+Type_17 燃油储罐
+Type_18 工具
+Type_19 障碍物
+Type_20 库存类
+Type_21 烟熏物
+Type_22 植物
+Type_23 陷阱
+Type_24 建筑
+Type_25 自制补给品
+Type_26 弹丸
+Type_27 营养品
+Type_28 观察类
+Type_29 储水物
+Type_30 钓鱼竿
+Type_31 降落伞
+Type_32 地图
+Type_33 钥匙
+Type_34 箱子
+Type_35 拘束物
+Type_36 脱束器
+Type_37 液体储存器
+Type_38 生产机
+Type_39 遥控引爆器
+Type_40 遥控爆炸物
+Type_41 EXP储存器
+Type_42 辐射滤波器
+Type_43 自动炮塔
+Type_44 工具
+Type_45 工具
+Type_46 指南针
+
+Hotkey_Set 热键： {0}
+Hotkey_Unset 热键： [3-9]
+
+Quality 品质： {0}%
+Amount 数量： {0}
+
+Fuel 燃油： {0}
+Refill 水分： {0}
+Empty 已空
+Full 已满
+Clean 淡水
+Salty 海水
+Dirty 污水
+
+Ammo 弹量： {0} {1}/{2}
+None 已空
+
+Equip_Button 装备
+Equip_Button_Tooltip 装备该物品。
+Dequip_Button 卸下
+Dequip_Button_Tooltip 卸下该物品。
+Drop_Button 丢弃
+Drop_Button_Tooltip 丢弃该物品。
+Pickup_Button 捡起
+Pickup_Button_Tooltip 捡起该物品。
+
+Take_Button 拿起
+Take_Button_Tooltip 拿到手里。
+Store_Button 储存
+Store_Button_Tooltip 放到库存里。
+
+Repair_Button 修理
+Repair_Button_Tooltip 修理到100%的品质。
+Salvage_Button 拆解
+Salvage_Button_Tooltip 拆解成原始材料。
+Refill_Button 装弹
+Refill_Button_Tooltip 重新填装弹药。
+
+Attachments_Button 卸下
+Attachments_Button_Tooltip 拆除此附件。
+
+Craft_Rag_Button 手撕碎布
+Craft_Rag_Button_Tooltip 升级为布。
+Craft_Bandage_Button 土制绷带
+Craft_Bandage_Button_Tooltip 升级为绷带。
+Craft_Dressing_Button 土制敷料
+Craft_Dressing_Button_Tooltip 升级为敷料。
+Craft_Seed_Button 零散的种子
+Craft_Seed_Button_Tooltip 收集为种子。
+
+Swap_Cosmetics_Tooltip 显示自定义着装设定
+Swap_Skins_Tooltip 显示皮肤
+Swap_Mythics_Tooltip 显示特效
+
+Vehicle_Lock_On 上锁车门 [{0}]
+Vehicle_Lock_Off 解锁车门 [{0}]
+Vehicle_Lock_Tooltip 预防偷车贼。
+Vehicle_Horn 喇叭 [{0}]
+Vehicle_Horn_Tooltip 警告音。
+Vehicle_Headlights_On 开启车头灯 [{0}]
+Vehicle_Headlights_Off 关闭车头灯 [{0}]
+Vehicle_Headlights_Tooltip 明亮的夜间旅行。
+Vehicle_Sirens_On 开启警笛 [{0}]
+Vehicle_Sirens_Off 关闭警笛 [{0}]
+Vehicle_Sirens_Tooltip 紧急警报音。
+Vehicle_Blimp_On 上升 [{0}]
+Vehicle_Blimp_Off 下降 [{0}]
+Vehicle_Blimp_Tooltip 调整气球的镇流器。
+Vehicle_Hook 拖缆 [{0}]
+Vehicle_Hook_Tooltip 可以带走附近的车子。
+Vehicle_Seat_Empty 空
+Vehicle_Seat_Slot {0} [{1}]
+Vehicle_Steal_Battery 取出电源
+Vehicle_Steal_Battery_Tooltip 从引擎室中取出电源。
+Vehicle_Skin_On 应用车辆涂鸦
+Vehicle_Skin_Off 清除车辆涂鸦
+Vehicle_Skin_Tooltip 选择使用你的车辆涂鸦。
+Hands 手上的物品
+Storage 存储
+Storage_Trunk {0} 后备箱
+Area 身边的物品
+
+Rot_X X++
+Rot_Y Y++
+Rot_Z Z++

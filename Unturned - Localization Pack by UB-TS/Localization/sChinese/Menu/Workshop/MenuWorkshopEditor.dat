@@ -1,0 +1,26 @@
+Name_Field_Label 地图名
+
+Add_Button 加入
+Add_Button_Tooltip 创建地图
+
+Remove_Button 删除
+Remove_Button_Tooltip 删除地图
+Remove_Button_Confirm 确认
+Remove_Button_Confirm_Tooltip 确认操作
+Remove_Button_Deny 取消
+Remove_Button_Deny_Tooltip 取消操作
+
+Edit_Button 编辑
+Edit_Button_Tooltip 编辑地图
+Edit2_Button 编辑 (Devkit)
+Edit2_Button_Tooltip 使用 WIP Devkit 编辑
+
+Tiny 微型地图
+Small 小型地图
+Medium 中型地图
+Large 大型地图
+Insane 巨型地图
+
+VR_Label 使用空间VR模式
+VR_Hint_0 在启动参数中加入 -VR 来打开VR菜单
+VR_Hint_1 将禁用桌面影院模式！

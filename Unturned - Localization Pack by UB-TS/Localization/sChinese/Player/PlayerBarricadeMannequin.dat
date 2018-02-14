@@ -1,0 +1,17 @@
+Cosmetics_Button Apply 应用外观
+Cosmetics_Button_Tooltip 显示外观
+Add_Button 装备 [{0}]
+Add_Button_Tooltip 从库存中装备
+Remove_Button 取下 [{0}]
+Remove_Button_Tooltip 从目前外观中移除
+Swap_Button 替换服装
+Swap_Button_Tooltip 保存至目前外观
+Pose_Button_Tooltip 调整姿态
+Mirror_Button 左右翻转
+Mirror_Button_Tooltip 反转姿态
+Cancel_Button 取消
+Cancel_Button_Tooltip 撤销更改
+
+T T台秀
+Classic 默认姿势
+Lie 躺下

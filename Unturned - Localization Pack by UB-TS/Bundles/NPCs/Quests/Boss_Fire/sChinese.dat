@@ -1,0 +1,4 @@
+Name <color=mythical>一片焦土</color>
+Description 最近Norbert参加了一个Novobirsk的搜刮任务，并遇到了一只巨大的“呼吸出火的”僵尸。不幸的是，这意味着他们不能搜刮当地物品，直到尸王被杀死。
+
+Condition_0 击败 {0}/{1} <color=mythical>烈焰尸王</color>

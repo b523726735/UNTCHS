@@ -1,0 +1,31 @@
+Return_Button 返回
+Return_Button_Tooltip 返回游戏
+
+Exit_Button 退出
+Exit_Button_Tooltip 退出至Windows
+
+Report_Button 反馈BUG
+Report_Button_Tooltip 反馈BUG给开发人员
+
+Trello_Button Trello 开发路线
+Trello_Button_Tooltip 访问开发者的Trello（英文）。
+
+Twitter_Button 游戏开发资讯
+Twitter_Button_Tooltip 访问开发者的Twitter（英文）。
+
+Steam_Button Steam新闻
+Steam_Button_Tooltip 完整的公告和评论内容就在这里（英文）。
+
+Credits_Button 开发人员名单
+Credits_Button_Tooltip 感谢你们的帮助！
+
+Forum_Button 论坛
+Forum_Button_Tooltip 全球Unturned玩家的聚集地（英文）！
+
+Blog_Button 博客
+Blog_Button_Tooltip 作者的开发日志和个人随笔（英文）。
+
+Wiki_Button 百科
+Wiki_Button_Tooltip 由游戏社群负责整理的游戏资料（英文）。
+
+Overlay 需要启用Steam界面。

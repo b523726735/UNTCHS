@@ -1,0 +1,4 @@
+Name 走私者的小海湾
+Description 如果你认为有必要调查一下，<color=epic>长官Brian</color>可以授予你调查走私的权限。他觉得沿海岸线的某些基地会有一些货物痕迹。
+
+Condition_0 找到证据 {0}/1

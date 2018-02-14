@@ -1,0 +1,42 @@
+Home_Button 在家重生
+Home_Button_Timer 在家重生 [{0}]
+Home_Button_Tooltip 在你睡过的床上重生。
+Respawn_Button 在复活点重生
+Respawn_Button_Timer 在复活点重生 [{0}]
+Respawn_Button_Tooltip 在重生点重生。
+
+Leg 腿
+Arm 手臂
+Spine 躯干
+Skull 头部
+
+Bleeding 你失血过多而死！
+Bones 粉碎性骨折死亡！
+Freezing 你体温过低冷死了！
+Burning 你被烧死了！
+Food 你饿死了！
+Water 你渴死了！
+Gun 你被 {1} [{2}] 射中 {0} 而死！
+Melee 你被 {1} [{2}] 砍中 {0} 而死
+Zombie 你被僵尸吃掉了脑子！
+Animal 你被动物咬死了！
+Suicide 自己玩脱了。喜大普奔！
+Kill 你被管理员处死
+Infection 你因病菌感染而死
+Punch 你被 {1} [{2}] 扎中 {0} 而死 ！
+Breath 你因缺氧而死亡！
+Roadkill 你被 {0} [{1}] 碾死！
+Vehicle 你被车辆炸死！
+Grenade 你被手雷炸死！
+Shred 你被碎片扎死了！
+Landmine 你被地雷炸死！
+Arena 你已被淘汰出竞技场！
+Missile 你被导弹炸死了！
+Charge 你被炸弹炸死了！
+Splash 你被爆炸弹打死了！
+Sentry 你被自动炮台扫死了！
+Acid 你尸变了！
+Boulder 你被僵尸砸死了！
+Burner 你被僵尸烧死了！
+Spit 你被一个僵尸溶解了！
+Spark 你被僵尸电死了！

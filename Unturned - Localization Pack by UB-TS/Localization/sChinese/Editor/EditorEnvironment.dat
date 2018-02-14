@@ -1,0 +1,11 @@
+LightingButtonText 光源
+LightingButtonTooltip 白天/夜晚
+
+RoadsButtonText 道路
+RoadsButtonTooltip 摊铺机启动！
+
+NavigationButtonText 路径
+NavigationButtonTooltip AI行动范围
+
+NodesButtonText 节点
+NodesButtonTooltip 设定一个地区在地图上显示的名字

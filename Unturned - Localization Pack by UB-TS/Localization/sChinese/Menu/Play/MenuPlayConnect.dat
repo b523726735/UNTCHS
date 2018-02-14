@@ -1,0 +1,13 @@
+IP_Field_Label IP地址
+Port_Field_Label 端口
+Password_Field_Label 密码
+Password_Field_Replace #
+
+Connect_Button 开始连接
+Connect_Button_Tooltip 开始连接
+
+Connecting 启动连接中...[第 {0} 次尝试]
+Pro_Server 你需要购买黄金版才可以进入该服务器。
+Password 该服务器需要密码。
+Full 服务器已满。
+Timed_Out 连接服务器失败。

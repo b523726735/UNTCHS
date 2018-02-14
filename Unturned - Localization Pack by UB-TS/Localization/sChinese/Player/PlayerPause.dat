@@ -1,0 +1,36 @@
+Return_Button_Text 返回
+Return_Button_Tooltip 返回
+Options_Button_Text 设置
+Options_Button_Tooltip 设置
+Graphics_Button_Text 画质设置
+Graphics_Button_Tooltip 画质设置
+Display_Button_Text 显示设置
+Display_Button_Tooltip 显示设置
+Controls_Button_Text 控制设置
+Controls_Button_Tooltip 控制设置
+Exit_Button_Text 退出
+Exit_Button_Timer 退出 [{0}]
+Exit_Button_Tooltip 返回主菜单
+Suicide_Button_Text 自杀
+Suicide_Button_Tooltip 自杀
+Suicide_Button_Confirm 确认
+Suicide_Button_Confirm_Tooltip 自杀
+Suicide_Button_Deny 取消
+Suicide_Button_Deny_Tooltip 继续旅程
+Suicide_Disabled 服务器已禁用自杀功能
+
+Spy_Refresh_Button_Text 截取屏幕
+Spy_Refresh_Button_Tooltip 刷新
+Spy_Slay_Button_Text 裁决
+Spy_Slay_Button_Tooltip 处死并永久封禁
+
+Server {0} 在 {1} [{2}]
+VAC_Secure VAC保护中
+VAC_Insecure VAC未保护
+BattlEye_Secure 需要开启BattlEye
+BattlEye_Insecure BattlEye已禁用
+Streamer 直播模式
+
+Favorite_On_Button_Text 添加到收藏
+Favorite_Off_Button_Text 取消收藏
+Favorite_Button_Tooltip 添加收藏/取消收藏

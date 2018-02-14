@@ -1,0 +1,7 @@
+Name 播送中
+Description <color=legendary>指挥官Laurence</color> 打算修复俄罗斯广播塔来向仍在外部的幸存者播送消息。你需要获取他所说的一个工具包，Natalie在工程中丢失的工具包。
+
+Condition_0 获取广播修复工具 {0}/1
+Condition_1 修复西广播塔 {0}/1
+Condition_2 修复西北广播塔 {0}/1
+Condition_3 修复东北广播塔 {0}/1

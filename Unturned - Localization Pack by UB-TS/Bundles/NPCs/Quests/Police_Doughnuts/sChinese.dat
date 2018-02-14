@@ -1,0 +1,4 @@
+Name 秘密的小吃
+Description <color=epic>厨师Brian</color>想要做几个甜甜圈，但他不希望被警察发现，不然就要给他们提供甜甜圈了。你知道就好，别到处乱说。
+
+Condition_0 烘焙 {0}/{1} 个 {2}

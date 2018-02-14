@@ -1,0 +1,5 @@
+Name 垃圾解放者
+
+Interactability_Condition_0 {0}/1 白色喷漆
+
+Interact 喷漆 [{0}]
