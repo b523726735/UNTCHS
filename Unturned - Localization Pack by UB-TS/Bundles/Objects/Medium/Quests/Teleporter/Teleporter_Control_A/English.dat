@@ -1,7 +1,7 @@
-Name Teleporter Control A
+Name 传送机控制台 A
 
-Interact Use Teleporter [{0}]
+Interact 使用传送机 [{0}]
 
-Interactability_Condition_0 Missing Teleporter Coil
-Interactability_Condition_1 Missing Teleporter Coil
-Interactability_Condition_2 Missing Teleporter Coil
+Interactability_Condition_0 缺少传送线圈
+Interactability_Condition_1 缺少传送线圈
+Interactability_Condition_2 缺少传送线圈
